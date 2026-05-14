@@ -1,0 +1,54 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8 -num-decimal-places 4
+Relation:     versao03-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.Remove-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.InterquartileRange-Rfirst-last-O3.0-E6.0-weka.filters.unsupervised.attribute.Remove-R10
+Instances:    700
+Attributes:   12
+              area_m2
+              bairro_valorizacao
+              idade_imovel
+              vagas_estacionamento
+              distancia_centro_km
+              fluxo_pessoas_dia
+              taxa_vacancia_regiao
+              tipo_imovel
+              padrao_construtivo
+              preco
+              Outlier
+              ExtremeValue
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+Linear Regression Model
+
+preco =
+
+  37704.3167 * area_m2 +
+  -2335.311  * bairro_valorizacao=medio,alto +
+  -8779.816  * idade_imovel +
+  12235.6999 * vagas_estacionamento +
+   4956.1068 * distancia_centro_km +
+  59583.5789 * fluxo_pessoas_dia +
+  -8421.8506 * taxa_vacancia_regiao +
+   2801.1023 * tipo_imovel=loja,galpao +
+   8217.1331 * tipo_imovel=galpao +
+   1904.4202 * padrao_construtivo=medio,alto +
+   1892.8464 * padrao_construtivo=alto +
+   9067.1681 * Outlier=yes +
+  -6671.8981 * ExtremeValue=yes +
+  -4392.0327
+
+Time taken to build model: 0 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.8413
+Mean absolute error                   4088.5223
+Root mean squared error               8538.933 
+Relative absolute error                 41.636  %
+Root relative squared error             54.0107 %
+Total Number of Instances              700     
+

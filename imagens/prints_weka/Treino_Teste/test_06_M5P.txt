@@ -1,0 +1,207 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.M5P -M 4.0 -num-decimal-places 4
+Relation:     versao03-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.Remove-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.InterquartileRange-Rfirst-last-O3.0-E6.0-weka.filters.unsupervised.attribute.Remove-R10
+Instances:    700
+Attributes:   12
+              area_m2
+              bairro_valorizacao
+              idade_imovel
+              vagas_estacionamento
+              distancia_centro_km
+              fluxo_pessoas_dia
+              taxa_vacancia_regiao
+              tipo_imovel
+              padrao_construtivo
+              preco
+              Outlier
+              ExtremeValue
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+area_m2 <= 0.061 : 
+|   fluxo_pessoas_dia <= 0.176 : 
+|   |   area_m2 <= 0.021 : 
+|   |   |   fluxo_pessoas_dia <= 0.078 : LM1 (66/0.24%)
+|   |   |   fluxo_pessoas_dia >  0.078 : 
+|   |   |   |   taxa_vacancia_regiao <= 0.421 : LM2 (74/5.195%)
+|   |   |   |   taxa_vacancia_regiao >  0.421 : LM3 (27/4.704%)
+|   |   area_m2 >  0.021 : 
+|   |   |   fluxo_pessoas_dia <= 0.109 : 
+|   |   |   |   fluxo_pessoas_dia <= 0.04 : LM4 (19/3.006%)
+|   |   |   |   fluxo_pessoas_dia >  0.04 : LM5 (51/6.227%)
+|   |   |   fluxo_pessoas_dia >  0.109 : LM6 (67/7.187%)
+|   fluxo_pessoas_dia >  0.176 : LM7 (223/18.21%)
+area_m2 >  0.061 : 
+|   fluxo_pessoas_dia <= 0.319 : LM8 (132/57.117%)
+|   fluxo_pessoas_dia >  0.319 : 
+|   |   fluxo_pessoas_dia <= 0.503 : LM9 (32/61.357%)
+|   |   fluxo_pessoas_dia >  0.503 : LM10 (9/59.896%)
+
+LM num: 1
+preco = 
+	23235.8306 * area_m2 
+	- 51.173 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 992.1314 * idade_imovel 
+	+ 1821.224 * vagas_estacionamento 
+	- 291.9509 * distancia_centro_km 
+	+ 4977.9261 * fluxo_pessoas_dia 
+	- 843.3548 * taxa_vacancia_regiao 
+	+ 177.4096 * tipo_imovel=loja,galpao 
+	+ 145.2768 * padrao_construtivo=medio,alto 
+	+ 193.694 * padrao_construtivo=alto 
+	+ 738.5059
+
+LM num: 2
+preco = 
+	114950.7078 * area_m2 
+	+ 378.2261 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 3760.8559 * idade_imovel 
+	+ 6058.338 * vagas_estacionamento 
+	- 3140.1697 * distancia_centro_km 
+	+ 15383.2633 * fluxo_pessoas_dia 
+	- 3455.1584 * taxa_vacancia_regiao 
+	+ 177.4096 * tipo_imovel=loja,galpao 
+	+ 145.2768 * padrao_construtivo=medio,alto 
+	+ 691.9133 * padrao_construtivo=alto 
+	+ 970.7664
+
+LM num: 3
+preco = 
+	47760.5949 * area_m2 
+	- 51.173 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 1678.5297 * idade_imovel 
+	+ 2960.6643 * vagas_estacionamento 
+	- 1239.3847 * distancia_centro_km 
+	+ 7228.0453 * fluxo_pessoas_dia 
+	- 1548.5977 * taxa_vacancia_regiao 
+	+ 177.4096 * tipo_imovel=loja,galpao 
+	+ 145.2768 * padrao_construtivo=medio,alto 
+	+ 305.0536 * padrao_construtivo=alto 
+	+ 1287.8751
+
+LM num: 4
+preco = 
+	55043.7047 * area_m2 
+	+ 82.5518 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 2421.0656 * idade_imovel 
+	+ 2977.5357 * vagas_estacionamento 
+	- 1163.8516 * distancia_centro_km 
+	+ 13243.402 * fluxo_pessoas_dia 
+	- 1437.8489 * taxa_vacancia_regiao 
+	+ 284.5312 * tipo_imovel=loja,galpao 
+	+ 301.2916 * padrao_construtivo=medio,alto 
+	+ 142.4936 * padrao_construtivo=alto 
+	+ 433.0927
+
+LM num: 5
+preco = 
+	102809.4508 * area_m2 
+	+ 82.5518 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 4091.4971 * idade_imovel 
+	+ 4034.8017 * vagas_estacionamento 
+	- 2764.1556 * distancia_centro_km 
+	+ 22079.9483 * fluxo_pessoas_dia 
+	- 2300.0993 * taxa_vacancia_regiao 
+	+ 284.5312 * tipo_imovel=loja,galpao 
+	+ 301.2916 * padrao_construtivo=medio,alto 
+	+ 142.4936 * padrao_construtivo=alto 
+	+ 194.5438
+
+LM num: 6
+preco = 
+	123933.3161 * area_m2 
+	+ 87.1452 * bairro_valorizacao=medio,alto 
+	+ 91.0386 * bairro_valorizacao=alto 
+	- 3783.8546 * idade_imovel 
+	+ 7435.0398 * vagas_estacionamento 
+	- 3316.8644 * distancia_centro_km 
+	+ 33144.9246 * fluxo_pessoas_dia 
+	- 4637.5147 * taxa_vacancia_regiao 
+	+ 1102.9384 * tipo_imovel=loja,galpao 
+	+ 1408.8434 * padrao_construtivo=medio,alto 
+	+ 142.4936 * padrao_construtivo=alto 
+	- 2118.8498
+
+LM num: 7
+preco = 
+	198907.3289 * area_m2 
+	- 92.5745 * bairro_valorizacao=medio,alto 
+	+ 905.5902 * bairro_valorizacao=alto 
+	- 7133.2649 * idade_imovel 
+	+ 7949.0126 * vagas_estacionamento 
+	- 5378.4128 * distancia_centro_km 
+	+ 33701.4312 * fluxo_pessoas_dia 
+	- 5605.118 * taxa_vacancia_regiao 
+	+ 148.3987 * tipo_imovel=loja,galpao 
+	+ 1091.4927 * padrao_construtivo=medio,alto 
+	+ 1191.3316 * padrao_construtivo=alto 
+	- 2753.0243
+
+LM num: 8
+preco = 
+	28412.4463 * area_m2 
+	- 651.8885 * bairro_valorizacao=medio,alto 
+	- 15699.2445 * idade_imovel 
+	+ 26648.3045 * vagas_estacionamento 
+	+ 2369.7815 * distancia_centro_km 
+	+ 63819.9842 * fluxo_pessoas_dia 
+	- 1552.1986 * taxa_vacancia_regiao 
+	+ 7786.8694 * tipo_imovel=loja,galpao 
+	+ 184.8102 * padrao_construtivo=medio,alto 
+	+ 168.7395 * padrao_construtivo=alto 
+	- 6776.4568
+
+LM num: 9
+preco = 
+	112933.8403 * area_m2 
+	- 1277.5106 * bairro_valorizacao=medio,alto 
+	+ 8152.979 * bairro_valorizacao=alto 
+	- 5034.8075 * idade_imovel 
+	+ 4328.8074 * vagas_estacionamento 
+	+ 35344.3592 * distancia_centro_km 
+	+ 75245.3832 * fluxo_pessoas_dia 
+	- 16665.2296 * taxa_vacancia_regiao 
+	+ 1590.0886 * tipo_imovel=loja,galpao 
+	+ 184.8102 * padrao_construtivo=medio,alto 
+	+ 168.7395 * padrao_construtivo=alto 
+	- 14231.4008
+
+LM num: 10
+preco = 
+	61287.0776 * area_m2 
+	- 1277.5106 * bairro_valorizacao=medio,alto 
+	+ 5768.6138 * bairro_valorizacao=alto 
+	+ 8875.651 * idade_imovel 
+	+ 4328.8074 * vagas_estacionamento 
+	+ 34748.8545 * distancia_centro_km 
+	+ 170602.2876 * fluxo_pessoas_dia 
+	- 2979.0473 * taxa_vacancia_regiao 
+	+ 1590.0886 * tipo_imovel=loja,galpao 
+	+ 184.8102 * padrao_construtivo=medio,alto 
+	+ 168.7395 * padrao_construtivo=alto 
+	- 51825.4296
+
+Number of Rules : 10
+
+Time taken to build model: 0.14 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.8966
+Mean absolute error                   2836.8241
+Root mean squared error               7021.5333
+Relative absolute error                 28.8891 %
+Root relative squared error             44.4128 %
+Total Number of Instances              700     
+

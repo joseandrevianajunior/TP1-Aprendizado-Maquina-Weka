@@ -1,0 +1,61 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SMOreg -C 1.0 -N 0 -I "weka.classifiers.functions.supportVector.RegSMOImproved -T 0.001 -V -P 1.0E-12 -L 0.001 -W 1" -K "weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007"
+Relation:     versao03-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.Remove-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.InterquartileRange-Rfirst-last-O3.0-E6.0-weka.filters.unsupervised.attribute.Remove-R10
+Instances:    700
+Attributes:   12
+              area_m2
+              bairro_valorizacao
+              idade_imovel
+              vagas_estacionamento
+              distancia_centro_km
+              fluxo_pessoas_dia
+              taxa_vacancia_regiao
+              tipo_imovel
+              padrao_construtivo
+              preco
+              Outlier
+              ExtremeValue
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMOreg
+
+weights (not support vectors):
+ +       0.4377 * (normalized) area_m2
+ -       0.0028 * (normalized) bairro_valorizacao=baixo
+ +       0.0058 * (normalized) bairro_valorizacao=alto
+ -       0.003  * (normalized) bairro_valorizacao=medio
+ -       0.0209 * (normalized) idade_imovel
+ +       0.0499 * (normalized) vagas_estacionamento
+ -       0.0172 * (normalized) distancia_centro_km
+ +       0.1286 * (normalized) fluxo_pessoas_dia
+ -       0.015  * (normalized) taxa_vacancia_regiao
+ -       0.0042 * (normalized) tipo_imovel=loja
+ -       0.0114 * (normalized) tipo_imovel=sala_comercial
+ -       0.0095 * (normalized) tipo_imovel=escritorio
+ +       0.0251 * (normalized) tipo_imovel=galpao
+ +       0.0002 * (normalized) padrao_construtivo=medio
+ -       0.0046 * (normalized) padrao_construtivo=baixo
+ +       0.0044 * (normalized) padrao_construtivo=alto
+ +       0.027  * (normalized) Outlier=yes
+ -       0.2517 * (normalized) ExtremeValue=yes
+ +       0.0124
+
+
+
+Number of kernel evaluations: 245350 (99.515% cached)
+
+Time taken to build model: 0.66 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.8128
+Mean absolute error                   3388.9563
+Root mean squared error               9262.2417
+Relative absolute error                 34.5118 %
+Root relative squared error             58.5858 %
+Total Number of Instances              700     
+

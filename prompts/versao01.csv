@@ -1,0 +1,701 @@
+﻿id_imovel,tipo_imovel,zona,area_m2,vagas_estacionamento,banheiros,idade_imovel_anos,distancia_centro_km,andar,estado_conservacao,fluxo_pessoas,tem_climatizacao,documentacao_regular,cor_fachada,preco_aluguel_mensal
+COM-0001,Prédio Comercial,Centro,1073.85,11.0,9,2.0,6.07,3,Bom,Médio,Não,Não,Branca,93168.82
+COM-0002,Galpão,Centro,892.52,9.0,6,2.0,2.23,0,Novo,Médio,Sim,Sim,Vermelha,65123.0
+COM-0003,Prédio Comercial,Zona Sul,296.28,,1,4.0,7.94,0,Bom,Médio,Não,Sim,Verde,21544.35
+COM-0004,Sala Comercial,Centro,2991.47,0.0,1,8.0,0.2,2,Precisa Reforma,Médio,Sim,Sim,Cinza,8566.85
+COM-0005,Galpão,Zona Oeste,373.76,4.0,2,13.0,9.12,0,Regular,Médio,Não,Sim,Amarela,15036.9
+COM-0006,Sala Comercial,Zona Leste,51.44,0.0,1,28.0,15.47,6,Regular,Médio,Não,Sim,Azul,800.0
+COM-0007,Escritório,Área Industrial,102.31,0.0,1,41.0,16.59,12,Regular,Alto,Sim,Sim,Cinza,1412.73
+COM-0008,Loja,Zona Norte,164.09,,1,3.0,9.62,0,Regular,Alto,Não,Sim,Vermelha,7178.51
+COM-0009,Loja,Zona Oeste,137.18,0.0,1,0.0,8.84,0,Novo,Médio,Não,Sim,Amarela,7138.72
+COM-0010,Loja,Zona Norte,164.39,2.0,2,0.0,8.48,0,Regular,Baixo,Não,Sim,Verde,4907.05
+COM-0011,Sala Comercial,Centro,62.29,1.0,1,4.0,0.94,10,Precisa Reforma,Alto,Sim,Sim,Vermelha,3909.85
+COM-0012,Sala Comercial,Zona Norte,35.24,0.0,1,7.0,12.08,8,Bom,Médio,Não,Sim,Amarela,800.0
+COM-0013,Sala Comercial,Centro,62.95,2.0,1,8.0,6.19,2,Precisa Reforma,Médio,Não,Sim,Azul,2180.15
+COM-0014,Prédio Comercial,Zona Oeste,878.7,8.0,8,,9.34,12,Bom,Baixo,Sim,Sim,Cinza,56809.67
+COM-0015,Quiosque,Área Industrial,26.87,0.0,1,31.0,14.49,0,Novo,Alto,Não,Sim,Cinza,800.0
+COM-0016,Escritório,Zona Norte,135.54,1.0,1,2.0,11.29,0,Bom,Muito Alto,Não,Sim,Cinza,17423.63
+COM-0017,Quiosque,Zona Oeste,13.79,0.0,1,20.0,5.61,0,Bom,Baixo,Sim,Sim,Amarela,800.0
+COM-0018,Galpão,Centro,732.92,7.0,5,,1.02,0,Regular,Médio,Não,Sim,Branca,51343.82
+COM-0019,Galpão,Zona Sul,1102.68,12.0,9,,6.78,0,Novo,Médio,Não,Sim,Azul,82473.35
+COM-0020,Loja,Área Industrial,36.32,0.0,1,0.0,16.18,0,Precisa Reforma,Baixo,Sim,Sim,Bege,800.0
+COM-0021,Galpão,Centro,603.83,7.0,4,50.0,0.2,0,Regular,Muito Alto,Sim,Sim,Amarela,65646.98
+COM-0022,Sala Comercial,Centro,29.7,0.0,1,15.0,5.71,6,Bom,Alto,Não,Sim,Vermelha,800.0
+COM-0023,Prédio Comercial,Zona Sul,1105.4,14.0,8,0.0,5.3,7,Bom,Baixo,Sim,Sim,Amarela,100519.41
+COM-0024,Sala Comercial,Zona Norte,74.22,0.0,1,3.0,7.81,7,Novo,Alto,Sim,Sim,Cinza,3234.93
+COM-0025,Loja,Zona Norte,74.03,2.0,1,31.0,10.03,0,Regular,Médio,Sim,Não,Amarela,1055.66
+COM-0026,Galpão,Zona Norte,783.47,9.0,7,9.0,6.18,0,Bom,Médio,Sim,Sim,Cinza,45277.84
+COM-0027,Sala Comercial,Zona Sul,60.72,1.0,1,15.0,3.04,3,Regular,Alto,Sim,Sim,Bege,2979.82
+COM-0028,Escritório,Zona Norte,137.6,1.0,1,0.0,11.88,13,Novo,Médio,Sim,Sim,Bege,5364.92
+COM-0029,Quiosque,Zona Sul,29.19,0.0,1,14.0,8.97,0,Regular,Médio,Sim,Não,Bege,800.0
+COM-0030,Loja,Centro,63.48,1.0,1,22.0,3.97,0,Regular,Médio,Sim,Sim,Bege,3651.01
+COM-0031,Sala Comercial,Centro,,0.0,1,43.0,0.2,8,Bom,Muito Alto,Não,,Cinza,2403.1
+COM-0032,Sala Comercial,Área Industrial,49.73,2.0,1,8.0,15.21,15,Precisa Reforma,Médio,Sim,Sim,Branca,800.0
+COM-0033,Galpão,Zona Sul,800.16,7.0,5,33.0,8.45,0,Regular,Baixo,Sim,Sim,Bege,37819.79
+COM-0034,Galpão,Centro,827.68,8.0,7,5.0,0.2,0,Bom,Alto,Sim,Sim,Bege,92178.13
+COM-0035,Sala Comercial,Centro,59.71,0.0,1,10.0,2.66,1,Regular,Médio,Sim,Sim,Amarela,2468.23
+COM-0036,Galpão,Zona Norte,455.86,6.0,3,16.0,14.25,0,Bom,Alto,Sim,Sim,Azul,32824.4
+COM-0037,Prédio Comercial,Zona Norte,417.82,3.0,3,24.0,12.54,2,Bom,Alto,Sim,Sim,Amarela,32633.78
+COM-0038,Quiosque,Centro,23.23,1.0,1,12.0,4.36,0,Bom,Médio,Não,Não,Azul,800.0
+COM-0039,Sala Comercial,Centro,48.06,1.0,1,10.0,0.79,0,Regular,Alto,Não,Sim,Vermelha,2804.04
+COM-0040,Loja,Área Industrial,93.27,0.0,1,10.0,14.58,0,Bom,Muito Alto,Não,Sim,Cinza,5434.6
+COM-0041,Galpão,Zona Leste,2872.31,6.0,4,11.0,15.04,0,Precisa Reforma,Alto,Sim,Sim,Bege,10100.85
+COM-0042,Loja,Zona Leste,212.17,3.0,2,44.0,6.92,0,Regular,Baixo,Sim,Sim,Cinza,5319.58
+COM-0043,Loja,Zona Sul,86.91,1.0,1,0.0,6.66,0,Regular,Médio,Sim,Não,Vermelha,3433.06
+COM-0044,Escritório,Zona Sul,153.15,1.0,1,3.0,12.3,4,Regular,Médio,Sim,Sim,Cinza,6640.35
+COM-0045,Escritório,Zona Oeste,50.87,1.0,2,6.0,13.1,6,Regular,Muito Alto,Não,Sim,Cinza,1568.46
+COM-0046,Escritório,Área Industrial,50.2,0.0,2,1.0,6.28,4,Bom,Alto,Não,Sim,Azul,2090.77
+COM-0047,Quiosque,Zona Oeste,16.48,0.0,1,12.0,5.71,0,Regular,Baixo,Não,Sim,Verde,800.0
+COM-0048,Escritório,Área Industrial,78.7,0.0,3,23.0,13.06,3,Regular,Médio,Sim,,Verde,1192.93
+COM-0049,Sala Comercial,Zona Oeste,59.38,0.0,1,33.0,8.84,7,Bom,Médio,Sim,Sim,Verde,800.0
+COM-0050,Sala Comercial,Área Industrial,83.17,0.0,2,9.0,15.54,12,Precisa Reforma,Médio,Não,Sim,Cinza,800.0
+COM-0051,Quiosque,Centro,19.69,0.0,1,,0.2,0,Precisa Reforma,Baixo,Não,Sim,Branca,800.0
+COM-0052,Galpão,Zona Norte,564.68,7.0,6,25.0,13.44,0,Regular,Médio,Não,Sim,Amarela,26044.86
+COM-0053,Loja,Centro,78.55,0.0,1,,3.33,0,Bom,Médio,Não,Sim,Vermelha,1988.51
+COM-0054,Escritório,Centro,52.28,0.0,1,32.0,0.85,10,Bom,Muito Alto,Sim,Sim,Branca,3964.3
+COM-0055,Escritório,Zona Norte,123.89,,2,,11.06,12,Bom,Médio,Não,Sim,Azul,4490.92
+COM-0056,Sala Comercial,Área Industrial,73.79,0.0,1,35.0,16.29,9,Regular,Muito Alto,Sim,Sim,Cinza,800.0
+COM-0057,Sala Comercial,Zona Sul,37.0,2.0,1,13.0,3.36,14,Bom,Alto,Sim,Sim,Amarela,2561.04
+COM-0058,Galpão,Área Industrial,810.09,6.0,6,9.0,18.93,0,Regular,Baixo,Sim,Sim,Vermelha,34203.67
+COM-0059,Galpão,Centro,451.88,4.0,4,11.0,0.2,0,Precisa Reforma,Médio,Sim,Sim,Azul,24868.89
+COM-0060,Loja,Zona Norte,130.19,2.0,1,1.0,6.66,0,Bom,Alto,Sim,Sim,Vermelha,6372.37
+COM-0061,Galpão,Zona Leste,477.57,5.0,4,6.0,17.43,0,Bom,Médio,Sim,Sim,Bege,22789.06
+COM-0062,Escritório,Área Industrial,94.84,0.0,1,1.0,16.97,14,Regular,Médio,Sim,Sim,Bege,1794.68
+COM-0063,Loja,Centro,145.97,3.0,1,4.0,2.71,0,Bom,Médio,Sim,Sim,Bege,11024.84
+COM-0064,Escritório,Zona Leste,111.02,1.0,1,59.0,13.29,14,Regular,Médio,Não,Sim,Verde,800.0
+COM-0065,Sala Comercial,Zona Oeste,55.54,1.0,1,7.0,12.88,15,Regular,Médio,Sim,Sim,Branca,800.0
+COM-0066,Escritório,Zona Norte,158.56,1.0,2,11.0,8.48,2,Bom,Muito Alto,Sim,Sim,Vermelha,8437.47
+COM-0067,Loja,Centro,13.81,0.0,1,43.0,1.95,0,Bom,Médio,Sim,Sim,Bege,800.0
+COM-0068,Sala Comercial,Área Industrial,62.97,1.0,1,2.0,12.04,12,Bom,Alto,Sim,Não,Cinza,2569.92
+COM-0069,Escritório,Zona Oeste,136.28,0.0,1,42.0,14.06,7,Precisa Reforma,Médio,Sim,,Verde,800.0
+COM-0070,Loja,Zona Norte,133.94,,1,,11.02,0,Regular,Médio,Sim,Sim,Azul,4047.93
+COM-0071,Quiosque,Zona Sul,15.3,0.0,1,36.0,6.57,0,Precisa Reforma,Médio,Não,Sim,Verde,800.0
+COM-0072,Loja,Zona Sul,146.77,2.0,2,5.0,8.0,0,Novo,Médio,Sim,Sim,Bege,9471.93
+COM-0073,Escritório,Zona Norte,149.29,1.0,2,9.0,11.2,2,Precisa Reforma,Médio,Sim,Sim,Branca,3766.94
+COM-0074,Quiosque,Zona Norte,19.0,0.0,1,0.0,12.94,0,Regular,Alto,Não,Sim,Azul,800.0
+COM-0075,Loja,Centro,71.75,1.0,1,5.0,0.2,0,Novo,Baixo,Não,Sim,Azul,5216.98
+COM-0076,Sala Comercial,Zona Norte,51.98,0.0,1,18.0,15.89,3,Bom,Alto,Não,Sim,Cinza,800.0
+COM-0077,Loja,Centro,34.83,0.0,1,8.0,1.4,0,Bom,Alto,Não,Sim,Vermelha,2813.17
+COM-0078,Loja,Zona Leste,47.94,,1,1.0,14.1,0,Regular,Médio,Não,Sim,Vermelha,800.0
+COM-0079,Galpão,Centro,526.67,4.0,4,13.0,4.37,0,Precisa Reforma,Alto,Sim,Sim,Cinza,33887.06
+COM-0080,Loja,Zona Leste,96.22,0.0,1,1.0,12.68,0,Novo,Médio,Sim,Sim,Cinza,2983.72
+COM-0081,Prédio Comercial,Zona Oeste,706.22,6.0,7,0.0,10.11,8,Regular,Médio,Sim,Não,Bege,42546.01
+COM-0082,Galpão,Zona Sul,939.11,11.0,7,16.0,5.41,0,Regular,Médio,Não,Sim,Branca,50915.2
+COM-0083,Sala Comercial,Zona Sul,48.95,0.0,1,7.0,11.1,12,Regular,Médio,Sim,Sim,Cinza,800.0
+COM-0084,Loja,Centro,70.6,0.0,1,9.0,1.12,0,Regular,Médio,Não,Sim,Cinza,3246.36
+COM-0085,Galpão,Zona Sul,264.45,3.0,1,0.0,2.73,0,Novo,Médio,Sim,Sim,Azul,18806.29
+COM-0086,Prédio Comercial,Zona Leste,670.97,6.0,5,26.0,18.06,2,Bom,Alto,Sim,Sim,Azul,56267.98
+COM-0087,Sala Comercial,Zona Leste,54.82,2.0,1,10.0,10.42,13,Bom,Médio,Não,Sim,Cinza,1126.87
+COM-0088,Escritório,Zona Norte,150.37,1.0,1,5.0,13.78,6,Bom,Baixo,Sim,Sim,Bege,4658.34
+COM-0089,Prédio Comercial,Centro,410.5,5.0,2,2.0,0.2,9,Regular,Médio,Não,Sim,Cinza,31444.94
+COM-0090,Sala Comercial,Centro,43.01,0.0,1,48.0,0.78,8,Novo,Médio,Sim,Sim,Cinza,800.0
+COM-0091,Prédio Comercial,Centro,698.13,8.0,6,31.0,0.2,0,Regular,Médio,Sim,Sim,Verde,78555.21
+COM-0092,Sala Comercial,Área Industrial,90.63,2.0,1,2.0,13.71,3,Bom,Alto,Não,Sim,Branca,3051.41
+COM-0093,Galpão,Zona Leste,259.39,2.0,2,4.0,10.29,0,Novo,Alto,Não,Sim,Azul,13829.58
+COM-0094,Loja,Zona Oeste,133.39,4.0,1,0.0,7.42,0,Bom,Alto,Sim,Sim,Verde,9075.82
+COM-0095,Escritório,Zona Norte,130.22,0.0,1,17.0,7.61,1,Bom,Médio,Sim,Sim,Bege,3633.94
+COM-0096,Loja,Centro,241.69,0.0,1,,2.61,0,Regular,Baixo,Sim,Sim,Branca,9514.75
+COM-0097,Sala Comercial,Zona Leste,56.9,0.0,1,1.0,13.76,9,Bom,Baixo,Não,Sim,Verde,800.0
+COM-0098,Loja,Zona Norte,149.42,1.0,1,20.0,11.87,0,Bom,Alto,Sim,Sim,Azul,8393.12
+COM-0099,Sala Comercial,Zona Sul,74.16,0.0,1,6.0,5.78,4,Regular,Muito Alto,Sim,Sim,Cinza,3556.08
+COM-0100,Galpão,Zona Oeste,114.72,2.0,1,8.0,10.98,0,Precisa Reforma,Médio,Sim,Sim,Verde,3640.65
+COM-0101,Quiosque,Zona Sul,22.98,0.0,1,1.0,9.31,0,Bom,Baixo,Sim,Sim,Cinza,800.0
+COM-0102,Galpão,Centro,786.54,7.0,6,18.0,3.4,0,Bom,Alto,Não,Sim,Branca,91870.15
+COM-0103,Quiosque,Zona Leste,19.09,0.0,1,3.0,10.45,0,Bom,Baixo,Não,Sim,Vermelha,800.0
+COM-0104,Sala Comercial,Zona Norte,63.84,0.0,1,20.0,10.19,15,,Médio,Não,Sim,Verde,800.0
+COM-0105,Sala Comercial,Zona Leste,45.23,0.0,1,15.0,10.23,15,Regular,Médio,Sim,Não,Bege,800.0
+COM-0106,Escritório,Centro,130.3,0.0,1,5.0,0.2,3,Novo,Médio,Não,Sim,Amarela,10588.84
+COM-0107,Escritório,Centro,117.9,1.0,1,8.0,0.2,1,Regular,Médio,Sim,Sim,Bege,6696.33
+COM-0108,Galpão,Zona Sul,661.26,9.0,6,30.0,4.63,0,Novo,Médio,Sim,Sim,Vermelha,57134.05
+COM-0109,Galpão,Centro,1101.69,13.0,10,32.0,0.2,0,Regular,Alto,Não,Sim,Branca,88146.2
+COM-0110,Galpão,Centro,837.46,12.0,7,6.0,1.03,0,Precisa Reforma,Muito Alto,Sim,,Bege,67756.08
+COM-0111,Loja,Área Industrial,69.39,0.0,1,5.0,16.22,0,Bom,Alto,Sim,Sim,Verde,2839.54
+COM-0112,Sala Comercial,Zona Sul,36.99,0.0,1,7.0,6.26,4,Bom,Muito Alto,Não,Sim,Bege,1600.95
+COM-0113,Escritório,Zona Norte,8.0,0.0,1,10.0,13.09,0,Regular,Médio,Sim,Sim,Amarela,800.0
+COM-0114,Galpão,Zona Leste,774.0,7.0,6,69.0,20.72,0,Regular,Médio,Sim,Sim,Bege,30681.4
+COM-0115,Galpão,Zona Sul,653.34,,5,2.0,6.57,0,Bom,Médio,Não,Sim,Azul,57167.89
+COM-0116,Escritório,Zona Sul,56.25,2.0,1,6.0,10.74,12,Bom,Médio,Sim,Sim,Bege,1952.72
+COM-0117,Prédio Comercial,Centro,780.06,8.0,5,12.0,0.2,10,Precisa Reforma,Baixo,Não,Sim,Verde,41426.86
+COM-0118,Loja,Área Industrial,116.52,1.0,1,12.0,18.17,0,Novo,Baixo,Não,Não,Branca,2421.28
+COM-0119,Sala Comercial,Área Industrial,43.46,1.0,1,1.0,18.14,2,Bom,Alto,Não,Sim,Bege,800.0
+COM-0120,Galpão,Área Industrial,2619.43,4.0,3,6.0,12.76,0,Precisa Reforma,Muito Alto,Sim,Sim,Amarela,12819.99
+COM-0121,Loja,Zona Leste,149.66,1.0,1,6.0,9.25,0,Precisa Reforma,Muito Alto,Não,Sim,Branca,4565.82
+COM-0122,Escritório,Zona Leste,66.43,2.0,1,3.0,9.16,9,Novo,Baixo,Não,Sim,Bege,2513.01
+COM-0123,Loja,Zona Norte,15.9,2.0,1,17.0,10.71,0,Bom,Médio,Sim,Sim,Azul,800.0
+COM-0124,Loja,Centro,118.45,0.0,2,0.0,2.42,0,Regular,Alto,Sim,Não,Azul,6134.91
+COM-0125,Sala Comercial,Zona Leste,25.34,1.0,1,49.0,12.45,14,Bom,Alto,Não,Sim,Azul,800.0
+COM-0126,Loja,Área Industrial,125.04,0.0,1,9.0,19.09,0,Precisa Reforma,Médio,Não,Sim,Verde,1914.64
+COM-0127,Escritório,Centro,103.96,2.0,2,2.0,4.54,7,Bom,Médio,Sim,Sim,Cinza,7290.0
+COM-0128,Quiosque,Zona Norte,22.84,0.0,1,0.0,12.55,0,Precisa Reforma,Alto,Sim,Sim,Vermelha,800.0
+COM-0129,Escritório,Área Industrial,,0.0,1,4.0,11.78,9,Precisa Reforma,Alto,Não,Sim,Bege,2903.63
+COM-0130,Sala Comercial,Zona Leste,,1.0,1,7.0,14.48,4,Regular,Alto,Sim,Não,Vermelha,800.0
+COM-0131,Loja,Zona Oeste,77.08,1.0,1,8.0,10.37,0,Novo,Médio,Sim,Não,Cinza,2399.02
+COM-0132,Escritório,Centro,129.55,1.0,1,0.0,1.4,11,Novo,Médio,Sim,Não,Bege,10615.4
+COM-0133,Loja,Área Industrial,88.65,3.0,1,19.0,14.31,0,Precisa Reforma,Muito Alto,Sim,Sim,Bege,3114.47
+COM-0134,Loja,Área Industrial,166.47,0.0,2,1.0,15.78,0,Novo,Muito Alto,Não,Sim,Verde,13264.73
+COM-0135,Quiosque,Zona Oeste,19.07,0.0,1,19.0,11.83,0,Bom,Alto,Sim,Sim,Verde,800.0
+COM-0136,Sala Comercial,Zona Oeste,78.37,0.0,1,8.0,11.29,11,Bom,Médio,Sim,Sim,Branca,1753.74
+COM-0137,Galpão,Área Industrial,715.18,6.0,4,,19.16,0,Bom,Alto,Sim,Sim,Verde,58200.77
+COM-0138,Escritório,Zona Norte,92.19,0.0,1,21.0,11.29,1,Bom,Baixo,Sim,Sim,Branca,831.93
+COM-0139,Sala Comercial,Zona Sul,45.44,0.0,1,4.0,5.56,13,Bom,Médio,Sim,Sim,Verde,1554.4
+COM-0140,Prédio Comercial,Zona Oeste,947.24,11.0,5,18.0,13.1,8,Bom,Muito Alto,Sim,Sim,Verde,84492.88
+COM-0141,Sala Comercial,Zona Norte,60.88,1.0,1,33.0,14.2,11,Bom,Muito Alto,Sim,Não,Cinza,800.0
+COM-0142,Loja,Zona Norte,85.83,0.0,1,11.0,9.66,0,Precisa Reforma,Muito Alto,Não,Sim,Azul,2637.5
+COM-0143,Prédio Comercial,Zona Leste,1452.85,15.0,11,5.0,12.15,7,Novo,Alto,Não,Sim,Azul,108136.48
+COM-0144,Loja,Zona Oeste,67.45,0.0,1,13.0,12.95,0,Bom,Médio,Não,Sim,Azul,1257.55
+COM-0145,Escritório,Zona Leste,93.27,1.0,1,56.0,14.15,4,Bom,Muito Alto,Sim,Sim,Branca,1823.92
+COM-0146,Prédio Comercial,Centro,1467.39,14.0,12,2.0,0.2,7,Novo,Alto,Sim,Sim,Cinza,198897.05
+COM-0147,Loja,Zona Oeste,88.13,2.0,2,14.0,8.29,0,Bom,Alto,Sim,Sim,Amarela,5347.57
+COM-0148,Galpão,Zona Sul,559.63,5.0,3,9.0,11.64,0,Bom,Alto,Não,Não,Vermelha,45370.98
+COM-0149,Galpão,Zona Sul,502.93,5.0,4,12.0,8.0,0,Precisa Reforma,Baixo,Sim,,Vermelha,17960.3
+COM-0150,Loja,Zona Leste,125.24,0.0,1,3.0,12.9,0,Bom,Muito Alto,Sim,Sim,Azul,7870.67
+COM-0151,Sala Comercial,Zona Leste,,0.0,1,7.0,16.57,9,Bom,Médio,Sim,Sim,Branca,800.0
+COM-0152,Escritório,Centro,107.01,2.0,1,10.0,3.25,6,Regular,Alto,Sim,Não,Verde,6201.54
+COM-0153,Sala Comercial,Zona Sul,67.99,2.0,1,14.0,8.52,13,Bom,Baixo,Sim,Sim,Azul,2354.53
+COM-0154,Prédio Comercial,Zona Sul,1436.09,15.0,12,25.0,6.5,13,Novo,Baixo,Sim,Sim,Bege,122355.58
+COM-0155,Loja,Centro,180.33,1.0,1,21.0,0.32,0,Precisa Reforma,Médio,Não,Sim,Bege,7631.31
+COM-0156,Prédio Comercial,Zona Oeste,901.2,10.0,6,47.0,5.92,9,,Alto,Sim,Sim,Amarela,77222.36
+COM-0157,Galpão,Centro,804.92,11.0,6,17.0,2.16,0,Bom,Alto,Sim,Sim,Branca,87026.32
+COM-0158,Escritório,Zona Sul,96.68,2.0,1,32.0,5.66,0,Regular,Alto,Sim,Sim,Vermelha,4636.41
+COM-0159,Sala Comercial,Centro,78.62,0.0,1,5.0,0.2,10,Regular,Médio,Sim,Sim,Azul,3699.44
+COM-0160,Galpão,Zona Sul,,8.0,5,0.0,11.7,0,Novo,Alto,Sim,Sim,Azul,66456.58
+COM-0161,Sala Comercial,Zona Sul,42.79,2.0,1,2.0,0.4,10,Novo,Médio,Não,Sim,Branca,3448.08
+COM-0162,Escritório,Centro,129.56,2.0,2,3.0,3.45,2,Regular,Baixo,Sim,Sim,Verde,6454.0
+COM-0163,Galpão,Zona Sul,1093.19,10.0,7,49.0,4.92,0,Bom,Médio,Sim,Sim,Vermelha,84724.47
+COM-0164,Prédio Comercial,Zona Sul,827.7,8.0,6,0.0,3.25,12,Regular,Baixo,Não,Sim,Azul,57890.29
+COM-0165,Sala Comercial,Centro,53.19,1.0,1,17.0,2.87,10,Novo,Médio,Sim,Sim,Verde,3227.0
+COM-0166,Loja,Zona Norte,150.38,0.0,1,0.0,11.59,0,Regular,Médio,Não,Sim,Branca,4782.95
+COM-0167,Sala Comercial,Zona Oeste,53.03,2.0,1,2.0,15.4,2,Bom,Médio,Não,Sim,Amarela,1086.58
+COM-0168,Sala Comercial,Zona Leste,54.69,0.0,1,19.0,11.66,10,Bom,Médio,Sim,Não,Verde,800.0
+COM-0169,Escritório,Área Industrial,79.17,0.0,1,14.0,18.28,7,Novo,Alto,Sim,Sim,Branca,2756.79
+COM-0170,Sala Comercial,Zona Norte,65.54,0.0,1,1.0,10.99,5,,Médio,Sim,Sim,Amarela,1093.79
+COM-0171,Galpão,Área Industrial,1010.82,12.0,8,4.0,16.08,0,Bom,Alto,Não,Sim,Azul,64452.64
+COM-0172,Loja,Zona Norte,121.88,1.0,1,0.0,8.0,0,Novo,Baixo,Não,Sim,Bege,4345.75
+COM-0173,Prédio Comercial,Zona Sul,1529.19,17.0,12,2.0,8.72,10,Bom,Médio,Não,Sim,Azul,134497.31
+COM-0174,Sala Comercial,Zona Sul,37.43,2.0,1,24.0,9.69,1,Regular,Alto,Sim,Sim,Verde,800.0
+COM-0175,Sala Comercial,Centro,78.09,0.0,1,7.0,2.09,2,Regular,Baixo,Sim,Sim,Verde,2894.89
+COM-0176,Galpão,Área Industrial,1173.8,12.0,9,0.0,14.05,0,Regular,Baixo,Não,,Azul,46279.42
+COM-0177,Sala Comercial,Zona Sul,47.95,1.0,1,12.0,5.28,3,Novo,Baixo,Não,Sim,Vermelha,2038.57
+COM-0178,Loja,Zona Leste,115.17,0.0,1,67.0,13.11,0,Novo,Muito Alto,Não,Sim,Amarela,10028.02
+COM-0179,Loja,Zona Norte,150.68,,1,24.0,5.99,0,Bom,Médio,Sim,Sim,Bege,5943.81
+COM-0180,Prédio Comercial,Zona Norte,1205.61,11.0,9,5.0,11.67,12,Bom,Médio,Sim,Sim,Vermelha,94499.63
+COM-0181,Quiosque,Zona Leste,28.1,0.0,1,27.0,12.88,0,Novo,Baixo,Não,Não,Cinza,800.0
+COM-0182,Quiosque,Zona Leste,14.56,0.0,1,2.0,17.43,0,Bom,Médio,Não,,Verde,800.0
+COM-0183,Prédio Comercial,Zona Norte,681.05,8.0,6,2.0,11.78,2,Novo,Alto,Sim,Sim,Cinza,67908.5
+COM-0184,Loja,Zona Norte,105.43,0.0,1,,13.32,0,Precisa Reforma,Médio,Não,Sim,Azul,800.0
+COM-0185,Loja,Zona Norte,177.44,0.0,1,41.0,7.64,0,Regular,Médio,Sim,Sim,Amarela,4795.34
+COM-0186,Loja,Zona Norte,57.71,1.0,1,1.0,10.86,0,Regular,Baixo,Sim,Sim,Bege,1115.33
+COM-0187,Prédio Comercial,Zona Leste,926.89,8.0,8,6.0,11.52,1,Precisa Reforma,Alto,Sim,Sim,Azul,55527.06
+COM-0188,Quiosque,Zona Leste,9.65,0.0,1,2.0,12.04,0,Regular,Alto,Sim,Sim,Bege,800.0
+COM-0189,Escritório,Área Industrial,108.37,1.0,1,2.0,16.72,14,Novo,Alto,Sim,Sim,Verde,5672.66
+COM-0190,Galpão,Zona Sul,517.77,5.0,3,33.0,9.2,0,Novo,Médio,Sim,Sim,Branca,39511.03
+COM-0191,Prédio Comercial,Área Industrial,927.52,7.0,8,7.0,17.04,3,Bom,Baixo,Sim,Sim,Cinza,43719.94
+COM-0192,Sala Comercial,Zona Sul,119.63,0.0,1,0.0,10.32,7,Regular,Baixo,Não,Não,Branca,2128.87
+COM-0193,Sala Comercial,Zona Norte,68.48,0.0,1,24.0,16.74,2,Bom,Médio,Sim,Sim,Branca,800.0
+COM-0194,Escritório,Zona Leste,62.9,0.0,2,11.0,13.6,9,Regular,Baixo,Não,Sim,Bege,800.0
+COM-0195,Loja,Zona Leste,175.28,3.0,2,6.0,9.57,0,Bom,Baixo,Sim,Sim,Bege,5872.5
+COM-0196,Loja,Área Industrial,134.83,2.0,1,,20.84,0,Bom,Médio,Não,Sim,Branca,4760.24
+COM-0197,Loja,Zona Sul,107.79,2.0,2,19.0,3.32,0,Regular,Médio,Sim,Não,Amarela,5294.15
+COM-0198,Galpão,Zona Leste,802.5,10.0,6,1.0,12.48,0,Bom,Alto,Sim,Sim,Cinza,51595.54
+COM-0199,Sala Comercial,Zona Sul,30.88,0.0,1,,4.46,11,Regular,Baixo,Sim,Sim,Amarela,800.0
+COM-0200,Escritório,Zona Sul,84.38,0.0,1,0.0,11.93,1,Novo,Alto,Sim,Não,Cinza,5112.59
+COM-0201,Escritório,Zona Norte,70.91,3.0,1,8.0,10.03,3,Novo,Médio,Não,Sim,Cinza,2932.73
+COM-0202,Loja,Zona Norte,119.0,0.0,1,6.0,14.07,0,Bom,Alto,Não,Sim,Vermelha,5882.24
+COM-0203,Galpão,Centro,982.23,11.0,8,37.0,4.06,0,Novo,Alto,Não,Sim,Azul,99827.35
+COM-0204,Loja,Centro,139.6,1.0,1,1.0,0.2,0,Novo,Muito Alto,Sim,Não,Amarela,14614.4
+COM-0205,Galpão,Centro,412.74,3.0,3,4.0,5.68,0,Regular,Médio,Não,Sim,Vermelha,31343.49
+COM-0206,Sala Comercial,Centro,72.01,0.0,1,1.0,3.15,14,Bom,Muito Alto,Não,Sim,Azul,4857.23
+COM-0207,Galpão,Zona Sul,675.29,,5,10.0,7.96,0,Precisa Reforma,Médio,Não,Sim,Branca,35571.86
+COM-0208,Sala Comercial,Área Industrial,53.35,0.0,1,12.0,16.37,3,Novo,Médio,Sim,Sim,Cinza,800.0
+COM-0209,Sala Comercial,Zona Leste,56.07,0.0,1,11.0,11.01,14,Novo,Médio,Sim,Sim,Cinza,800.0
+COM-0210,Galpão,Zona Sul,577.78,6.0,5,3.0,4.84,0,Regular,Alto,Sim,Sim,Verde,48284.01
+COM-0211,Sala Comercial,Zona Oeste,48.51,2.0,1,11.0,10.84,4,Regular,Muito Alto,Não,Sim,Verde,2056.9
+COM-0212,Loja,Centro,58.11,1.0,1,23.0,0.94,0,Regular,Médio,Sim,Sim,Amarela,2940.88
+COM-0213,Loja,Zona Sul,122.19,1.0,1,3.0,13.63,0,Bom,Médio,Sim,Sim,Cinza,7409.0
+COM-0214,Sala Comercial,Zona Leste,17.92,0.0,1,1.0,10.59,5,Bom,Baixo,Sim,Sim,Amarela,800.0
+COM-0215,Loja,Zona Oeste,203.89,1.0,2,3.0,14.89,0,Regular,Médio,Sim,Sim,Verde,6822.09
+COM-0216,Loja,Centro,84.44,0.0,1,8.0,2.2,0,Novo,Baixo,Não,Não,Bege,3282.1
+COM-0217,Prédio Comercial,Zona Oeste,1015.81,12.0,6,4.0,11.12,2,Bom,Médio,Sim,Sim,Cinza,85061.14
+COM-0218,Escritório,Zona Leste,163.13,0.0,3,0.0,14.67,11,Precisa Reforma,Alto,Sim,Sim,Azul,4735.69
+COM-0219,Escritório,Zona Norte,,0.0,1,1.0,6.76,11,Bom,Médio,Sim,Não,Azul,4261.38
+COM-0220,Galpão,Centro,576.37,7.0,3,19.0,0.2,0,Bom,Muito Alto,Não,Sim,Bege,60646.84
+COM-0221,Sala Comercial,Zona Sul,81.69,1.0,3,1.0,8.18,2,Novo,Médio,Sim,Sim,Cinza,4407.63
+COM-0222,Loja,Zona Oeste,138.08,2.0,1,14.0,7.64,0,Bom,Médio,Não,Sim,Amarela,5147.21
+COM-0223,Escritório,Centro,30.73,0.0,1,11.0,0.2,5,Novo,Baixo,Sim,Não,Azul,1397.88
+COM-0224,Sala Comercial,Área Industrial,55.69,0.0,1,22.0,16.25,8,Regular,Alto,Sim,Não,Cinza,800.0
+COM-0225,Loja,Zona Norte,,1.0,1,18.0,11.97,0,Bom,Médio,Sim,Não,Azul,4873.84
+COM-0226,Loja,Zona Leste,108.18,0.0,1,14.0,13.08,0,Precisa Reforma,Médio,Não,Sim,Bege,1042.66
+COM-0227,Loja,Centro,174.29,2.0,1,11.0,3.95,0,Regular,Médio,Não,Sim,Verde,9210.74
+COM-0228,Galpão,Centro,777.13,3.0,6,1.0,0.2,0,Regular,Médio,Sim,Sim,Azul,54143.34
+COM-0229,Escritório,Zona Leste,96.98,1.0,1,4.0,14.46,1,Bom,Baixo,Sim,Sim,Verde,1136.25
+COM-0230,Loja,Zona Leste,134.66,1.0,1,2.0,17.59,0,Bom,Alto,Não,Sim,Verde,5941.71
+COM-0231,Loja,Zona Norte,109.33,3.0,1,49.0,9.99,0,Bom,Médio,Sim,Sim,Azul,2821.45
+COM-0232,Loja,Centro,99.45,0.0,1,1.0,0.34,0,Precisa Reforma,Alto,Sim,Não,Azul,5335.67
+COM-0233,Escritório,Área Industrial,100.62,1.0,1,4.0,19.57,5,Regular,Médio,Sim,Sim,Verde,2342.35
+COM-0234,Escritório,Zona Sul,175.1,0.0,1,26.0,2.9,14,Novo,Médio,Não,Sim,Cinza,8895.17
+COM-0235,Loja,Zona Norte,61.49,0.0,1,17.0,13.28,0,Bom,Alto,Não,Sim,Branca,1087.57
+COM-0236,Escritório,Zona Sul,88.9,0.0,1,3.0,5.36,12,Regular,Alto,Sim,Sim,Amarela,4828.66
+COM-0237,Galpão,Zona Norte,295.06,3.0,2,1.0,12.74,0,Bom,Médio,Sim,Sim,Bege,11585.39
+COM-0238,Quiosque,Zona Leste,30.36,2.0,1,,12.48,0,Novo,Muito Alto,Sim,Sim,Cinza,800.0
+COM-0239,Galpão,Zona Norte,320.74,1.0,4,26.0,10.37,0,Novo,Alto,Sim,Sim,Branca,24456.09
+COM-0240,Loja,Zona Norte,63.96,0.0,1,22.0,17.47,0,Bom,Médio,Sim,Sim,Cinza,800.0
+COM-0241,Quiosque,Zona Norte,22.45,0.0,1,0.0,15.68,0,Bom,Alto,Não,Sim,Amarela,800.0
+COM-0242,Escritório,Zona Sul,97.19,1.0,2,13.0,5.9,0,Regular,Médio,Sim,Sim,Verde,4249.72
+COM-0243,Galpão,Zona Oeste,326.69,2.0,3,12.0,8.03,0,Regular,Alto,Sim,Sim,Vermelha,18148.78
+COM-0244,Escritório,Zona Oeste,79.74,1.0,1,17.0,12.99,15,Bom,Alto,Sim,Sim,Amarela,2509.44
+COM-0245,Escritório,Zona Norte,45.24,2.0,1,11.0,10.25,3,Regular,Médio,Sim,Sim,Verde,975.13
+COM-0246,Loja,Zona Leste,181.23,1.0,1,41.0,11.07,0,Bom,Muito Alto,Não,Sim,Vermelha,33524.78
+COM-0247,Escritório,Zona Leste,97.0,1.0,2,20.0,14.52,15,Bom,Médio,Sim,Sim,Azul,1740.03
+COM-0248,Sala Comercial,Zona Sul,62.9,1.0,1,3.0,3.87,8,Bom,Alto,Sim,Sim,Azul,3000.73
+COM-0249,Sala Comercial,Zona Norte,100.24,0.0,1,26.0,10.17,9,Precisa Reforma,Muito Alto,Não,Sim,Verde,1156.82
+COM-0250,Sala Comercial,Zona Norte,75.09,1.0,1,22.0,10.5,8,Precisa Reforma,Alto,Sim,Sim,Amarela,800.0
+COM-0251,Sala Comercial,Área Industrial,49.53,2.0,1,17.0,18.2,4,Regular,Muito Alto,Sim,Sim,Vermelha,800.0
+COM-0252,Loja,Área Industrial,145.15,2.0,1,33.0,17.2,0,Regular,Alto,Sim,Sim,Cinza,5109.48
+COM-0253,Quiosque,Zona Leste,14.83,0.0,1,15.0,13.06,0,Novo,Alto,Sim,Sim,Vermelha,800.0
+COM-0254,Escritório,Zona Norte,132.64,0.0,1,9.0,13.26,10,Bom,Baixo,Não,Sim,Bege,2517.18
+COM-0255,Loja,Área Industrial,184.49,2.0,1,0.0,12.33,0,Precisa Reforma,Baixo,Não,Não,Verde,4395.25
+COM-0256,Galpão,Centro,427.59,6.0,3,2.0,6.51,0,,Médio,Sim,Não,Branca,22756.43
+COM-0257,Prédio Comercial,Zona Norte,481.44,5.0,5,9.0,9.17,1,Regular,Alto,Não,Sim,Bege,26455.48
+COM-0258,Loja,Área Industrial,64.68,0.0,1,25.0,21.18,0,Precisa Reforma,Médio,Sim,Não,Bege,800.0
+COM-0259,Quiosque,Área Industrial,19.35,1.0,1,14.0,10.72,0,Novo,Médio,Sim,Não,Cinza,800.0
+COM-0260,Sala Comercial,Zona Leste,42.39,0.0,1,7.0,11.31,4,Bom,Muito Alto,Não,Sim,Azul,800.0
+COM-0261,Escritório,Zona Norte,148.97,,3,13.0,14.63,5,Regular,Alto,Sim,Sim,Cinza,6073.57
+COM-0262,Galpão,Zona Oeste,848.68,9.0,8,0.0,9.49,0,Novo,Alto,Não,Sim,Amarela,62457.02
+COM-0263,Sala Comercial,Zona Sul,70.32,1.0,1,6.0,11.43,15,Novo,Muito Alto,Sim,Sim,Cinza,4587.44
+COM-0264,Sala Comercial,Zona Sul,35.51,0.0,1,2.0,11.54,0,Bom,Médio,Sim,Sim,Azul,800.0
+COM-0265,Loja,Centro,68.79,2.0,1,1.0,3.25,0,Bom,Médio,Sim,Não,Vermelha,5454.42
+COM-0266,Escritório,Zona Leste,84.35,2.0,1,10.0,11.53,11,Regular,Muito Alto,Sim,Sim,Azul,2934.88
+COM-0267,Galpão,Zona Sul,,5.0,6,3.0,6.56,0,Precisa Reforma,Médio,Não,Não,Bege,30438.95
+COM-0268,Galpão,Zona Leste,603.21,6.0,5,19.0,9.49,0,Bom,Médio,Não,Sim,Branca,18678.69
+COM-0269,Galpão,Zona Sul,643.4,9.0,7,17.0,5.63,0,Bom,Muito Alto,Sim,Sim,Amarela,69542.46
+COM-0270,Loja,Zona Sul,65.11,1.0,1,12.0,6.7,0,Novo,Alto,Sim,Sim,Vermelha,4702.14
+COM-0271,Galpão,Centro,439.28,3.0,3,3.0,2.6,0,Bom,Alto,Sim,Sim,Verde,41739.6
+COM-0272,Galpão,Zona Sul,1026.35,10.0,8,0.0,0.2,0,Regular,Médio,Sim,Sim,Branca,72225.73
+COM-0273,Escritório,Zona Sul,120.79,1.0,1,33.0,8.55,2,Novo,Médio,Sim,Sim,Branca,5668.24
+COM-0274,Quiosque,Zona Sul,14.38,1.0,1,47.0,9.38,0,Bom,Baixo,Sim,Sim,Vermelha,800.0
+COM-0275,Prédio Comercial,Zona Sul,1002.75,9.0,8,11.0,6.89,12,Precisa Reforma,Médio,Sim,Sim,Vermelha,57312.91
+COM-0276,Escritório,Centro,83.97,0.0,1,3.0,2.1,12,Regular,Baixo,Sim,Sim,Azul,4043.97
+COM-0277,Escritório,Zona Oeste,,,1,0.0,12.08,13,Precisa Reforma,Médio,Sim,Sim,Azul,800.0
+COM-0278,Sala Comercial,Centro,94.85,0.0,1,7.0,2.81,3,Novo,Alto,Sim,Sim,Amarela,8136.37
+COM-0279,Escritório,Área Industrial,12.3,0.0,1,0.0,22.17,3,Novo,Médio,Sim,Sim,Vermelha,800.0
+COM-0280,Escritório,Centro,97.0,0.0,1,18.0,0.2,7,Regular,Médio,Sim,Sim,Bege,4293.09
+COM-0281,Loja,Zona Sul,95.86,0.0,1,2.0,11.87,0,Bom,Alto,Não,Sim,Amarela,5140.93
+COM-0282,Escritório,Zona Oeste,112.9,1.0,1,17.0,12.65,7,Bom,Alto,Sim,Sim,Amarela,4682.0
+COM-0283,Quiosque,Área Industrial,16.92,4.0,1,20.0,13.74,0,Precisa Reforma,Alto,Sim,Sim,Cinza,800.0
+COM-0284,Quiosque,Zona Leste,14.59,0.0,1,18.0,18.62,0,Regular,Médio,Sim,Sim,Verde,800.0
+COM-0285,Loja,Zona Sul,97.63,2.0,1,2.0,9.56,0,Bom,Médio,Não,Sim,Verde,6017.13
+COM-0286,Escritório,Zona Sul,117.97,2.0,1,28.0,6.0,4,Precisa Reforma,Médio,Sim,Sim,Cinza,3367.01
+COM-0287,Prédio Comercial,Área Industrial,565.71,,6,1.0,12.8,6,Regular,Baixo,Sim,,Amarela,32327.04
+COM-0288,Galpão,Área Industrial,707.9,8.0,5,6.0,12.81,0,Novo,Alto,Não,Sim,Verde,59512.11
+COM-0289,Loja,Área Industrial,110.64,2.0,2,15.0,23.77,0,Bom,Muito Alto,Sim,Sim,Vermelha,5629.31
+COM-0290,Loja,Área Industrial,149.82,1.0,1,9.0,12.98,0,Bom,Médio,Sim,Sim,Azul,7611.1
+COM-0291,Galpão,Zona Oeste,966.11,10.0,5,8.0,8.18,0,Bom,Médio,Sim,Sim,Amarela,55190.06
+COM-0292,Escritório,Zona Sul,129.74,2.0,1,20.0,6.28,10,Regular,Alto,Não,Sim,Verde,6186.46
+COM-0293,Loja,Área Industrial,100.41,0.0,2,12.0,15.03,0,Regular,Baixo,Sim,Sim,Vermelha,1317.42
+COM-0294,Sala Comercial,Centro,82.36,0.0,1,46.0,0.2,7,Bom,Médio,Sim,Sim,Vermelha,2931.54
+COM-0295,Sala Comercial,Zona Oeste,29.06,1.0,1,2.0,10.6,15,Bom,Alto,Sim,Sim,Cinza,800.0
+COM-0296,Loja,Zona Oeste,146.21,1.0,1,12.0,10.38,0,Bom,Muito Alto,Sim,Sim,Branca,12019.67
+COM-0297,Galpão,Zona Oeste,409.92,3.0,3,24.0,10.54,0,Novo,Alto,Sim,Sim,Azul,34493.08
+COM-0298,Escritório,Zona Norte,118.36,0.0,1,28.0,13.02,14,Regular,Baixo,Sim,Sim,Vermelha,800.0
+COM-0299,Quiosque,Área Industrial,17.2,0.0,1,9.0,15.64,0,Regular,Baixo,Sim,Sim,Branca,800.0
+COM-0300,Galpão,Zona Norte,634.77,,4,0.0,12.0,0,Precisa Reforma,Baixo,Não,Sim,Bege,18717.25
+COM-0301,Quiosque,Centro,22.26,0.0,1,16.0,0.72,0,Precisa Reforma,Médio,Sim,Sim,Cinza,800.0
+COM-0302,Escritório,Zona Norte,76.56,1.0,1,1.0,12.1,12,Bom,Médio,Sim,Sim,Vermelha,2834.33
+COM-0303,Sala Comercial,Zona Leste,50.08,0.0,1,4.0,12.09,1,Regular,Alto,Sim,Sim,Amarela,800.0
+COM-0304,Galpão,Zona Leste,837.02,10.0,6,0.0,15.85,0,Regular,Baixo,Não,Sim,Cinza,35123.45
+COM-0305,Galpão,Zona Oeste,624.93,6.0,5,0.0,13.49,0,Novo,Médio,Sim,Sim,Bege,44105.23
+COM-0306,Prédio Comercial,Zona Sul,1307.23,14.0,11,21.0,7.57,8,Bom,Muito Alto,Não,Sim,Branca,176157.87
+COM-0307,Loja,Zona Oeste,8.0,0.0,1,17.0,4.51,0,Novo,Médio,Sim,Sim,Bege,800.0
+COM-0308,Sala Comercial,Centro,60.06,3.0,1,11.0,6.42,12,Novo,Médio,Não,Sim,Verde,4298.73
+COM-0309,Escritório,Centro,97.64,0.0,1,8.0,0.2,11,Precisa Reforma,Alto,Sim,Sim,Bege,5400.29
+COM-0310,Loja,Zona Leste,127.17,3.0,1,8.0,11.13,0,Bom,Médio,Não,Sim,Vermelha,5112.75
+COM-0311,Sala Comercial,Área Industrial,38.67,0.0,1,1.0,15.89,12,Bom,Médio,Sim,Sim,Vermelha,800.0
+COM-0312,Sala Comercial,Zona Oeste,9.51,0.0,1,3.0,10.25,2,Bom,Médio,Sim,Sim,Vermelha,800.0
+COM-0313,Escritório,Centro,84.18,0.0,1,8.0,5.52,2,Bom,Médio,Sim,Sim,Cinza,4821.94
+COM-0314,Escritório,Centro,88.68,0.0,1,11.0,0.54,13,Novo,Médio,Sim,Sim,Amarela,5643.08
+COM-0315,Loja,Zona Leste,173.8,1.0,3,59.0,12.82,0,Bom,Médio,Sim,Sim,Branca,4055.45
+COM-0316,Escritório,Zona Sul,72.15,0.0,1,6.0,7.8,5,Precisa Reforma,Médio,Não,,Cinza,1660.44
+COM-0317,Sala Comercial,Zona Sul,20.21,3.0,1,3.0,7.44,13,Novo,Médio,Sim,Sim,Cinza,800.0
+COM-0318,Sala Comercial,Zona Norte,41.47,0.0,1,5.0,4.54,6,Regular,Médio,Sim,Sim,Branca,800.0
+COM-0319,Quiosque,Zona Norte,16.73,0.0,1,1.0,11.23,0,Regular,Alto,Sim,Sim,Bege,800.0
+COM-0320,Escritório,Zona Leste,89.11,2.0,1,5.0,12.7,6,Bom,Médio,Sim,Sim,Verde,2847.84
+COM-0321,Quiosque,Zona Norte,22.25,0.0,1,15.0,11.86,0,Regular,Médio,Sim,Sim,Verde,800.0
+COM-0322,Sala Comercial,Zona Oeste,38.61,0.0,1,7.0,8.35,6,Bom,Muito Alto,Sim,Sim,Vermelha,1191.62
+COM-0323,Escritório,Centro,100.59,0.0,2,12.0,0.2,6,Regular,Muito Alto,Sim,Sim,Vermelha,8432.99
+COM-0324,Loja,Zona Oeste,162.28,4.0,1,,13.0,0,Regular,Alto,Sim,Sim,Cinza,8283.29
+COM-0325,Prédio Comercial,Zona Leste,1387.36,15.0,11,29.0,13.78,15,Regular,Baixo,Sim,Sim,Bege,50637.16
+COM-0326,Prédio Comercial,Zona Sul,657.38,5.0,6,11.0,10.1,2,Regular,Médio,Sim,Sim,Vermelha,56933.71
+COM-0327,Sala Comercial,Zona Leste,31.0,0.0,1,26.0,12.36,12,Novo,Muito Alto,Não,Sim,Bege,800.0
+COM-0328,Sala Comercial,Centro,45.54,0.0,1,12.0,0.2,7,Bom,Médio,Sim,Sim,Bege,2231.04
+COM-0329,Prédio Comercial,Zona Leste,310.8,2.0,3,5.0,17.85,15,Novo,Muito Alto,Sim,Sim,Branca,37905.35
+COM-0330,Loja,Área Industrial,96.9,1.0,1,0.0,17.64,0,Novo,Médio,Sim,Sim,Verde,4401.99
+COM-0331,Sala Comercial,Centro,45.4,0.0,1,,0.39,2,Regular,Médio,Sim,Sim,Branca,1846.49
+COM-0332,Loja,Zona Norte,102.25,1.0,1,26.0,14.52,0,Novo,Alto,Não,Sim,Amarela,4075.23
+COM-0333,Loja,Centro,114.63,1.0,1,9.0,0.2,0,Bom,Muito Alto,Sim,Sim,Azul,12394.87
+COM-0334,Loja,Zona Leste,60.99,2.0,1,21.0,7.6,0,Bom,Alto,Não,Sim,Verde,2090.19
+COM-0335,Sala Comercial,Zona Leste,37.67,0.0,1,3.0,11.58,2,Bom,Alto,Sim,Sim,Amarela,800.0
+COM-0336,Loja,Zona Norte,144.7,2.0,1,1.0,17.22,0,Bom,Médio,Não,Sim,Vermelha,4640.7
+COM-0337,Sala Comercial,Zona Norte,8.0,0.0,1,11.0,16.88,11,Bom,Baixo,Não,Sim,Bege,800.0
+COM-0338,Prédio Comercial,Zona Oeste,453.46,5.0,3,9.0,10.76,4,Precisa Reforma,Médio,Sim,Sim,Branca,24850.53
+COM-0339,Loja,Zona Leste,174.29,2.0,1,1.0,11.83,0,Bom,Médio,Sim,Sim,Azul,6710.78
+COM-0340,Galpão,Zona Sul,859.56,9.0,5,47.0,10.38,0,Precisa Reforma,Muito Alto,Sim,Sim,Cinza,58605.81
+COM-0341,Loja,Zona Norte,31.35,1.0,1,17.0,9.04,0,Bom,Baixo,Sim,Sim,Azul,800.0
+COM-0342,Loja,Zona Norte,8.0,3.0,1,24.0,10.84,0,Bom,Alto,Sim,Sim,Vermelha,800.0
+COM-0343,Escritório,Zona Sul,113.24,2.0,1,2.0,7.27,7,Novo,Baixo,Sim,Sim,Amarela,6745.79
+COM-0344,Sala Comercial,Zona Oeste,50.5,0.0,1,8.0,11.97,15,Bom,Alto,Sim,Sim,Branca,923.64
+COM-0345,Sala Comercial,Zona Sul,54.59,0.0,1,14.0,9.84,1,Precisa Reforma,Médio,Não,,Azul,800.0
+COM-0346,Quiosque,Centro,13.52,1.0,1,3.0,4.36,0,Regular,Alto,Sim,Não,Verde,800.0
+COM-0347,Sala Comercial,Área Industrial,70.95,1.0,1,16.0,17.3,3,Novo,Alto,Não,Sim,Bege,2090.05
+COM-0348,Escritório,Zona Leste,136.39,2.0,1,11.0,12.92,13,,Alto,Sim,Sim,Azul,4203.1
+COM-0349,Escritório,Zona Oeste,89.29,0.0,1,5.0,9.57,5,Bom,Muito Alto,Sim,Sim,Cinza,17347.4
+COM-0350,Galpão,Área Industrial,617.66,6.0,5,4.0,16.0,0,Bom,Muito Alto,Não,Sim,Bege,45508.07
+COM-0351,Escritório,Área Industrial,118.07,2.0,1,,13.71,4,Precisa Reforma,Alto,Não,Sim,Azul,4188.94
+COM-0352,Escritório,Zona Oeste,72.95,0.0,1,28.0,9.21,15,Regular,Alto,Sim,Sim,Vermelha,960.2
+COM-0353,Sala Comercial,Zona Sul,68.98,0.0,1,5.0,7.83,2,Regular,Muito Alto,Sim,Sim,Vermelha,2982.82
+COM-0354,Quiosque,Zona Norte,20.01,0.0,1,7.0,16.4,0,Precisa Reforma,Médio,Sim,Sim,Vermelha,800.0
+COM-0355,Loja,Área Industrial,130.48,0.0,1,20.0,13.08,0,Regular,Alto,Não,Sim,Verde,4727.76
+COM-0356,Loja,Zona Sul,188.49,0.0,1,17.0,6.92,0,Bom,Médio,Não,Sim,Amarela,7401.08
+COM-0357,Loja,Zona Oeste,85.26,0.0,1,16.0,10.46,0,Regular,Muito Alto,Não,Sim,Vermelha,3061.43
+COM-0358,Escritório,Zona Sul,95.54,2.0,1,0.0,9.48,14,Novo,Alto,Sim,Não,Verde,5707.28
+COM-0359,Loja,Zona Leste,87.09,0.0,1,22.0,10.54,0,,Alto,Sim,Não,Cinza,3067.09
+COM-0360,Loja,Zona Norte,86.81,0.0,1,28.0,12.17,0,Novo,Alto,Sim,Sim,Vermelha,2918.0
+COM-0361,Sala Comercial,Zona Leste,60.84,0.0,1,12.0,12.6,3,Bom,Alto,Sim,Sim,Azul,800.0
+COM-0362,Galpão,Zona Sul,454.06,5.0,3,17.0,7.27,0,Bom,Baixo,Sim,Sim,Bege,26145.5
+COM-0363,Sala Comercial,Centro,15.4,0.0,1,0.0,5.11,3,Novo,Muito Alto,Sim,Sim,Cinza,9506.02
+COM-0364,Loja,Zona Oeste,113.75,0.0,1,7.0,8.35,0,Regular,Baixo,Não,Sim,Amarela,2237.05
+COM-0365,Galpão,Zona Leste,528.05,5.0,3,20.0,17.36,0,Novo,Médio,Sim,Sim,Verde,27510.5
+COM-0366,Galpão,Zona Sul,765.81,8.0,8,25.0,9.01,0,Bom,Muito Alto,Sim,Sim,Vermelha,67590.61
+COM-0367,Sala Comercial,Área Industrial,20.82,1.0,1,16.0,13.29,8,Bom,Baixo,Sim,Sim,Amarela,800.0
+COM-0368,Galpão,Zona Leste,321.51,5.0,1,2.0,12.01,0,Regular,Alto,Não,Sim,Cinza,16986.88
+COM-0369,Loja,Zona Leste,92.79,0.0,1,3.0,9.99,0,,Médio,Sim,Sim,Bege,2845.93
+COM-0370,Quiosque,Zona Sul,11.2,0.0,1,6.0,14.24,0,Novo,Médio,Sim,Sim,Branca,800.0
+COM-0371,Quiosque,Área Industrial,17.88,0.0,1,13.0,17.64,0,Novo,Alto,Sim,Sim,Vermelha,800.0
+COM-0372,Loja,Zona Sul,83.83,1.0,2,44.0,9.02,0,Precisa Reforma,Baixo,Sim,Sim,Azul,800.0
+COM-0373,Loja,Centro,102.3,1.0,1,5.0,6.15,0,Regular,Médio,Sim,Sim,Verde,6102.29
+COM-0374,Sala Comercial,Zona Sul,25.27,1.0,1,7.0,2.2,4,Regular,Médio,Sim,Sim,Amarela,1018.61
+COM-0375,Quiosque,Área Industrial,17.38,0.0,1,0.0,20.98,0,Novo,Médio,Sim,Sim,Vermelha,800.0
+COM-0376,Prédio Comercial,Centro,918.07,9.0,7,3.0,0.37,7,Regular,Alto,Sim,Sim,Verde,97368.45
+COM-0377,Loja,Zona Leste,184.08,2.0,1,19.0,13.74,0,Novo,Alto,Não,Sim,Branca,7695.42
+COM-0378,Escritório,Zona Leste,150.23,0.0,2,5.0,12.3,8,Novo,Muito Alto,Sim,Sim,Bege,9175.85
+COM-0379,Escritório,Zona Oeste,129.56,1.0,1,1.0,10.46,10,Novo,Muito Alto,Não,Sim,Branca,7601.58
+COM-0380,Sala Comercial,Área Industrial,51.57,0.0,1,3.0,22.07,11,Regular,Médio,Sim,Sim,Azul,800.0
+COM-0381,Sala Comercial,Zona Norte,50.82,0.0,1,9.0,15.12,3,Novo,Médio,Sim,Sim,Branca,800.0
+COM-0382,Escritório,Centro,,0.0,1,2.0,0.21,4,Novo,Médio,Sim,Não,Branca,6422.06
+COM-0383,Galpão,Área Industrial,266.45,3.0,4,0.0,11.91,0,Regular,Médio,Sim,Sim,Vermelha,14402.95
+COM-0384,Sala Comercial,Zona Oeste,55.91,1.0,1,,11.28,1,Bom,Baixo,Sim,Sim,Branca,800.0
+COM-0385,Quiosque,Centro,14.15,0.0,1,3.0,0.93,0,Bom,Médio,Não,Sim,Amarela,800.0
+COM-0386,Sala Comercial,Zona Norte,80.86,1.0,1,17.0,10.06,7,Bom,Alto,Sim,Sim,Verde,2354.34
+COM-0387,Quiosque,Zona Oeste,10.5,0.0,1,15.0,8.64,0,Regular,Médio,Não,Sim,Verde,800.0
+COM-0388,Loja,Zona Sul,76.35,0.0,1,13.0,5.92,0,Regular,Alto,Sim,Sim,Bege,3450.36
+COM-0389,Prédio Comercial,Zona Oeste,1160.47,12.0,9,5.0,13.96,7,Regular,Baixo,Sim,Não,Azul,55566.61
+COM-0390,Escritório,Centro,100.26,1.0,1,5.0,0.2,13,Precisa Reforma,Muito Alto,Não,Sim,Vermelha,7014.61
+COM-0391,Loja,Centro,21.49,1.0,1,2.0,3.69,0,Novo,Alto,Sim,Sim,Verde,1817.98
+COM-0392,Prédio Comercial,Centro,911.4,10.0,7,3.0,1.82,12,Bom,Alto,Não,Sim,Cinza,115610.06
+COM-0393,Sala Comercial,Zona Norte,98.48,0.0,2,3.0,11.31,3,Precisa Reforma,Baixo,Sim,Sim,Verde,960.34
+COM-0394,Sala Comercial,Centro,48.61,2.0,1,7.0,0.2,14,Bom,Alto,Sim,Sim,Branca,4249.56
+COM-0395,Loja,Zona Oeste,57.38,1.0,1,2.0,8.74,0,Bom,Alto,Sim,Sim,Bege,3064.73
+COM-0396,Sala Comercial,Centro,70.61,2.0,1,21.0,5.21,1,Bom,Médio,Não,Sim,Azul,2902.6
+COM-0397,Loja,Zona Sul,154.01,3.0,1,6.0,7.96,0,Bom,Alto,Sim,,Bege,12854.17
+COM-0398,Escritório,Centro,8.0,,1,4.0,3.54,7,Novo,Alto,Sim,Sim,Cinza,800.0
+COM-0399,Prédio Comercial,Área Industrial,1133.21,13.0,7,4.0,13.97,2,Novo,Médio,Sim,Sim,Vermelha,114198.66
+COM-0400,Sala Comercial,Centro,67.75,,1,27.0,0.2,10,Precisa Reforma,Alto,Sim,Não,Branca,2235.7
+COM-0401,Loja,Zona Sul,206.94,3.0,1,14.0,4.58,0,Regular,Médio,Sim,Sim,Azul,11918.31
+COM-0402,Sala Comercial,Área Industrial,42.47,1.0,1,0.0,17.95,4,Bom,Médio,Sim,Sim,Azul,800.0
+COM-0403,Prédio Comercial,Zona Sul,1268.18,12.0,10,8.0,7.75,2,Regular,Médio,Sim,Sim,Azul,72056.29
+COM-0404,Prédio Comercial,Zona Oeste,954.97,11.0,8,7.0,10.69,0,Bom,Muito Alto,Não,Sim,Cinza,103092.41
+COM-0405,Galpão,Zona Oeste,809.82,9.0,7,2.0,8.15,0,Bom,Médio,Sim,Sim,Branca,42282.76
+COM-0406,Sala Comercial,Centro,28.11,1.0,1,9.0,1.48,1,Regular,Alto,Não,Sim,Cinza,1764.06
+COM-0407,Escritório,Área Industrial,56.79,0.0,1,5.0,18.55,7,Precisa Reforma,Baixo,Sim,Sim,Vermelha,800.0
+COM-0408,Loja,Área Industrial,142.74,2.0,1,20.0,17.5,0,Bom,Alto,Não,Sim,Bege,6850.27
+COM-0409,Quiosque,Centro,18.04,0.0,1,2.0,2.76,0,Bom,Médio,Não,Sim,Amarela,800.0
+COM-0410,Loja,Zona Leste,189.34,0.0,1,24.0,11.56,0,Precisa Reforma,Médio,Sim,Sim,Bege,2976.64
+COM-0411,Escritório,Zona Sul,119.27,0.0,2,3.0,8.85,2,Bom,Médio,Sim,Sim,Branca,6620.97
+COM-0412,Galpão,Centro,1114.33,12.0,8,4.0,0.2,0,Precisa Reforma,Médio,Sim,Sim,Bege,55670.91
+COM-0413,Escritório,Zona Norte,41.72,1.0,1,0.0,15.6,4,Novo,Médio,Não,Sim,Bege,800.0
+COM-0414,Sala Comercial,Centro,75.5,3.0,1,4.0,1.03,3,Regular,Alto,Sim,Sim,Azul,5524.71
+COM-0415,Escritório,Zona Sul,100.6,,1,2.0,11.35,10,Regular,Médio,Sim,Não,Vermelha,4023.64
+COM-0416,Escritório,Centro,10.0,0.0,1,3.0,14.03,5,Bom,Muito Alto,Sim,Sim,Cinza,12089.48
+COM-0417,Loja,Zona Oeste,121.64,0.0,1,16.0,7.23,0,Precisa Reforma,Muito Alto,Sim,Não,Amarela,3788.17
+COM-0418,Loja,Zona Leste,205.08,0.0,1,3.0,12.75,0,Precisa Reforma,Muito Alto,Sim,Sim,Verde,6187.51
+COM-0419,Loja,Zona Oeste,73.91,0.0,1,11.0,10.21,0,Bom,Muito Alto,Sim,,Branca,3331.51
+COM-0420,Escritório,Zona Leste,,1.0,1,11.0,9.1,0,Regular,Médio,Sim,Sim,Branca,2723.46
+COM-0421,Sala Comercial,Zona Oeste,72.85,0.0,1,4.0,14.61,14,Regular,Baixo,Não,Não,Verde,800.0
+COM-0422,Galpão,Zona Norte,281.23,2.0,2,10.0,14.14,0,Bom,Baixo,Sim,Sim,Vermelha,11962.6
+COM-0423,Escritório,Zona Norte,86.97,0.0,1,7.0,12.54,1,Bom,Alto,Sim,Sim,Branca,2753.05
+COM-0424,Loja,Centro,144.87,1.0,1,13.0,1.43,0,Bom,Alto,Sim,Não,Branca,10551.01
+COM-0425,Sala Comercial,Área Industrial,59.96,0.0,1,3.0,18.48,13,Regular,Alto,Não,Sim,Verde,800.0
+COM-0426,Loja,Centro,95.38,1.0,1,11.0,0.2,0,Bom,Médio,Não,Sim,Vermelha,6958.87
+COM-0427,Galpão,Zona Leste,529.29,6.0,4,16.0,12.3,0,Bom,Baixo,Sim,Sim,Verde,19839.48
+COM-0428,Loja,Zona Norte,76.47,2.0,1,11.0,9.26,0,Bom,Médio,Não,Sim,Azul,2826.11
+COM-0429,Loja,Centro,144.98,2.0,1,2.0,3.73,0,Regular,Muito Alto,Sim,Sim,Bege,15758.91
+COM-0430,Sala Comercial,Zona Sul,69.99,0.0,2,0.0,9.05,12,Regular,Baixo,Sim,Não,Cinza,1401.65
+COM-0431,Loja,Centro,173.65,4.0,1,27.0,0.2,0,Bom,Médio,Não,Sim,Azul,13791.71
+COM-0432,Escritório,Zona Leste,117.44,3.0,1,,11.18,13,Novo,Médio,Não,Sim,Amarela,6060.73
+COM-0433,Loja,Zona Norte,219.63,1.0,1,7.0,13.58,0,Bom,Muito Alto,Não,Não,Amarela,9888.95
+COM-0434,Escritório,Zona Sul,95.14,2.0,1,1.0,5.52,1,Novo,Muito Alto,Sim,Não,Bege,9337.75
+COM-0435,Galpão,Área Industrial,348.44,4.0,2,0.0,15.16,0,Novo,Muito Alto,Sim,Não,Azul,31557.51
+COM-0436,Quiosque,Zona Oeste,11.77,0.0,1,13.0,9.01,0,Novo,Médio,Não,Sim,Bege,800.0
+COM-0437,Prédio Comercial,Zona Oeste,520.2,4.0,7,5.0,13.73,2,Bom,Muito Alto,Sim,Sim,Amarela,62778.06
+COM-0438,Sala Comercial,Zona Norte,44.73,0.0,1,29.0,10.62,13,Bom,Alto,Sim,Sim,Amarela,800.0
+COM-0439,Galpão,Zona Oeste,670.61,4.0,5,9.0,7.45,0,Precisa Reforma,Muito Alto,Sim,Sim,Cinza,32524.11
+COM-0440,Escritório,Área Industrial,95.5,3.0,1,21.0,17.26,15,Regular,Médio,Sim,Sim,Azul,1571.3
+COM-0441,Sala Comercial,Centro,100.24,0.0,1,,0.2,1,Bom,Alto,Sim,Sim,Vermelha,6418.27
+COM-0442,Sala Comercial,Zona Oeste,71.36,0.0,2,2.0,7.87,0,Precisa Reforma,Muito Alto,Sim,Sim,Cinza,1970.89
+COM-0443,Sala Comercial,Zona Sul,50.23,0.0,2,3.0,8.3,7,Regular,Baixo,Sim,Não,Verde,800.0
+COM-0444,Escritório,Zona Norte,74.25,0.0,1,38.0,14.06,2,Regular,Alto,Sim,Sim,Bege,800.0
+COM-0445,Sala Comercial,Zona Sul,20.11,0.0,2,14.0,8.17,1,Bom,Médio,Sim,Sim,Cinza,800.0
+COM-0446,Escritório,Zona Sul,49.6,1.0,1,11.0,3.96,0,Regular,Médio,Sim,Sim,Azul,2025.33
+COM-0447,Escritório,Zona Norte,62.61,1.0,1,14.0,9.78,6,Bom,Muito Alto,Sim,Sim,Amarela,2454.75
+COM-0448,Sala Comercial,Área Industrial,26.74,0.0,1,,15.1,15,Regular,Médio,Sim,Sim,Bege,800.0
+COM-0449,Galpão,Zona Sul,1278.99,12.0,12,3.0,9.99,0,Bom,Alto,Sim,Sim,Branca,128033.01
+COM-0450,Sala Comercial,Zona Norte,57.9,1.0,1,7.0,14.29,6,Novo,Médio,Não,Sim,Vermelha,881.46
+COM-0451,Loja,Zona Leste,54.04,0.0,1,5.0,12.81,0,Bom,Alto,Não,Sim,Verde,1102.7
+COM-0452,Escritório,Zona Leste,127.92,2.0,1,0.0,11.18,8,Bom,Baixo,Sim,Não,Vermelha,3368.49
+COM-0453,Quiosque,Zona Leste,,0.0,1,2.0,14.86,0,Bom,Médio,Sim,Sim,Verde,800.0
+COM-0454,Sala Comercial,Zona Sul,22.64,0.0,1,7.0,9.69,0,Regular,Médio,Sim,Sim,Bege,800.0
+COM-0455,Escritório,Zona Sul,117.8,0.0,1,19.0,6.98,3,Bom,Médio,Sim,Sim,Cinza,5191.01
+COM-0456,Prédio Comercial,Área Industrial,1429.55,19.0,12,16.0,16.25,9,Bom,Alto,Sim,Sim,Azul,163032.25
+COM-0457,Escritório,Zona Oeste,109.34,0.0,2,2.0,12.09,10,Regular,Alto,Não,Sim,Vermelha,3918.6
+COM-0458,Galpão,Zona Norte,621.71,7.0,5,17.0,16.1,0,Precisa Reforma,Médio,Não,Sim,Amarela,24086.67
+COM-0459,Escritório,Zona Norte,101.67,2.0,1,7.0,12.19,15,Regular,Alto,Não,Sim,Amarela,3061.91
+COM-0460,Sala Comercial,Centro,75.53,0.0,1,3.0,0.39,9,Regular,Médio,Sim,Sim,Cinza,3193.12
+COM-0461,Escritório,Zona Sul,95.55,2.0,1,20.0,11.56,10,Precisa Reforma,Muito Alto,Não,Sim,Azul,4201.21
+COM-0462,Escritório,Zona Norte,115.89,2.0,1,3.0,11.52,8,Regular,Médio,Sim,Sim,Branca,3980.43
+COM-0463,Galpão,Área Industrial,367.86,3.0,3,2.0,13.15,0,Bom,Muito Alto,Sim,Não,Amarela,22303.12
+COM-0464,Loja,Zona Leste,150.89,,1,18.0,10.91,0,Bom,Médio,Não,Sim,Azul,5490.47
+COM-0465,Sala Comercial,Área Industrial,60.73,0.0,1,0.0,10.11,4,Regular,Muito Alto,Sim,Sim,Bege,2191.91
+COM-0466,Loja,Zona Norte,144.58,0.0,1,13.0,13.04,0,Precisa Reforma,Médio,Sim,Sim,Azul,2447.89
+COM-0467,Escritório,Centro,83.47,1.0,1,3.0,2.45,2,Regular,Médio,Sim,Sim,Verde,4464.55
+COM-0468,Sala Comercial,Área Industrial,57.76,2.0,1,19.0,12.95,6,Bom,Baixo,Não,Não,Cinza,800.0
+COM-0469,Escritório,Zona Sul,93.62,0.0,1,4.0,11.29,7,Novo,Baixo,Sim,Sim,Cinza,2890.99
+COM-0470,Loja,Zona Norte,154.59,3.0,1,0.0,12.16,0,Bom,Baixo,Não,Sim,Cinza,6075.01
+COM-0471,Sala Comercial,Zona Sul,99.27,2.0,1,10.0,10.14,4,Bom,Médio,Sim,Não,Cinza,4567.64
+COM-0472,Escritório,Centro,77.77,0.0,1,10.0,2.6,0,Precisa Reforma,Alto,Sim,Sim,Azul,2722.62
+COM-0473,Loja,Centro,,2.0,1,7.0,1.87,0,Bom,Baixo,Não,Sim,Verde,9750.7
+COM-0474,Escritório,Zona Norte,135.99,2.0,1,2.0,16.89,1,Bom,Baixo,Não,Sim,Branca,3234.58
+COM-0475,Loja,Centro,3270.62,3.0,1,12.0,0.2,0,Precisa Reforma,Baixo,Sim,Sim,Azul,11407.13
+COM-0476,Prédio Comercial,Zona Leste,1030.72,10.0,10,13.0,11.99,8,Bom,Alto,Sim,Sim,Verde,85705.86
+COM-0477,Escritório,Centro,,,1,38.0,2.89,3,Regular,Baixo,Não,Sim,Amarela,4576.45
+COM-0478,Loja,Zona Norte,273.1,1.0,1,10.0,12.16,0,Bom,Médio,Não,Sim,Branca,10335.46
+COM-0479,Galpão,Área Industrial,1071.31,,8,0.0,15.55,0,Regular,Médio,Sim,Sim,Branca,54046.79
+COM-0480,Escritório,Zona Oeste,89.78,2.0,1,25.0,6.61,2,Regular,Baixo,Não,Sim,Vermelha,1945.21
+COM-0481,Loja,Zona Norte,151.48,0.0,2,70.0,9.11,0,Bom,Muito Alto,Sim,Sim,Branca,6359.55
+COM-0482,Escritório,Área Industrial,97.62,2.0,1,0.0,14.45,10,Regular,Médio,Sim,Sim,Bege,3313.45
+COM-0483,Escritório,Centro,87.79,0.0,1,3.0,0.2,5,Regular,Alto,Sim,Não,Amarela,4137.24
+COM-0484,Sala Comercial,Zona Oeste,44.82,0.0,1,4.0,8.54,3,Bom,Médio,Sim,Não,Cinza,800.0
+COM-0485,Escritório,Zona Leste,68.05,0.0,1,2.0,13.54,5,Bom,Médio,Sim,Sim,Branca,1062.85
+COM-0486,Quiosque,Zona Oeste,19.99,1.0,1,2.0,9.91,0,Novo,Muito Alto,Sim,Sim,Verde,800.0
+COM-0487,Loja,Zona Norte,148.66,0.0,1,10.0,11.9,0,Bom,Muito Alto,Não,Sim,Azul,11453.92
+COM-0488,Galpão,Zona Sul,654.33,5.0,6,8.0,6.76,0,Regular,Médio,Sim,Sim,Branca,35940.6
+COM-0489,Escritório,Zona Leste,127.04,0.0,1,7.0,11.09,7,Regular,Médio,Não,Sim,Cinza,2811.66
+COM-0490,Galpão,Zona Leste,1043.88,12.0,9,23.0,14.18,0,Bom,Médio,Não,Sim,Vermelha,39033.97
+COM-0491,Prédio Comercial,Zona Norte,802.39,9.0,6,16.0,6.78,1,Regular,Médio,Sim,Não,Amarela,25141.75
+COM-0492,Escritório,Zona Oeste,43.59,0.0,1,23.0,4.89,15,Regular,Baixo,Sim,Sim,Cinza,800.0
+COM-0493,Loja,Zona Norte,198.14,1.0,1,36.0,10.1,0,Regular,Médio,Sim,Sim,Bege,5760.46
+COM-0494,Galpão,Centro,348.77,3.0,5,12.0,2.39,0,Bom,Médio,Não,Sim,Branca,21722.73
+COM-0495,Loja,Zona Sul,193.85,0.0,1,2.0,3.71,0,Bom,Baixo,Sim,Sim,Amarela,8217.14
+COM-0496,Prédio Comercial,Área Industrial,649.73,8.0,4,4.0,12.69,14,Bom,Alto,Não,Sim,Branca,59146.66
+COM-0497,Escritório,Zona Oeste,137.63,0.0,1,9.0,9.31,15,Bom,Alto,Não,Sim,Verde,6335.3
+COM-0498,Loja,Zona Oeste,143.42,2.0,1,2.0,11.23,0,Bom,Médio,Não,Não,Cinza,5377.12
+COM-0499,Galpão,Zona Norte,448.74,3.0,4,,14.69,0,Novo,Muito Alto,Sim,Sim,Vermelha,36871.36
+COM-0500,Escritório,Centro,53.56,0.0,1,7.0,0.2,12,Bom,Médio,Sim,Sim,Azul,3074.4
+COM-0501,Escritório,Centro,105.23,0.0,1,17.0,0.2,3,Bom,Muito Alto,Não,Sim,Vermelha,8613.61
+COM-0502,Galpão,Centro,11.89,6.0,1,92.0,5.42,0,Precisa Reforma,Muito Alto,Não,Sim,Verde,17215.21
+COM-0503,Escritório,Zona Sul,81.52,1.0,1,11.0,0.61,5,Bom,Muito Alto,Não,Sim,Bege,6237.88
+COM-0504,Loja,Zona Norte,164.34,1.0,1,0.0,4.75,0,Bom,Muito Alto,Sim,Sim,Amarela,13579.26
+COM-0505,Escritório,Zona Oeste,84.94,1.0,1,3.0,8.73,9,,Muito Alto,Sim,Sim,Verde,5378.28
+COM-0506,Galpão,Área Industrial,435.56,3.0,3,5.0,14.65,0,Bom,Alto,Sim,Sim,Vermelha,36007.6
+COM-0507,Quiosque,Zona Leste,14.79,0.0,1,13.0,15.27,0,Bom,Alto,Sim,Sim,Vermelha,800.0
+COM-0508,Loja,Zona Leste,125.69,0.0,1,0.0,13.29,0,Precisa Reforma,Baixo,Sim,Sim,Vermelha,1787.8
+COM-0509,Loja,Zona Norte,84.06,1.0,1,39.0,10.81,0,Bom,Médio,Não,Sim,Vermelha,1285.55
+COM-0510,Escritório,Zona Sul,101.85,1.0,1,13.0,9.61,0,Regular,Médio,Sim,Sim,Azul,3505.57
+COM-0511,Loja,Centro,75.54,1.0,1,55.0,5.92,0,Bom,Alto,Não,Sim,Azul,3083.09
+COM-0512,Escritório,Zona Leste,50.22,,1,3.0,15.99,1,Bom,Alto,Sim,Sim,Amarela,800.0
+COM-0513,Escritório,Zona Oeste,117.42,1.0,1,1.0,6.56,12,Regular,Alto,Sim,Sim,Bege,5545.76
+COM-0514,Prédio Comercial,Zona Leste,1069.71,9.0,8,7.0,16.62,13,Novo,Médio,Não,Não,Cinza,68779.63
+COM-0515,Quiosque,Centro,20.8,,1,6.0,6.74,0,Regular,Médio,Não,Sim,Verde,800.0
+COM-0516,Escritório,Área Industrial,115.79,0.0,1,2.0,14.41,6,Regular,Alto,Não,Não,Cinza,2959.44
+COM-0517,Sala Comercial,Área Industrial,81.91,0.0,1,9.0,14.29,3,Novo,Muito Alto,Sim,Sim,Amarela,3987.18
+COM-0518,Sala Comercial,Centro,14.29,1.0,1,6.0,4.23,14,Regular,Baixo,Não,Sim,Azul,800.0
+COM-0519,Quiosque,Zona Leste,25.58,0.0,1,20.0,13.6,0,Regular,Alto,Não,Sim,Bege,800.0
+COM-0520,Galpão,Zona Norte,844.37,9.0,7,4.0,10.63,0,Regular,Médio,Sim,Sim,Branca,41364.83
+COM-0521,Escritório,Centro,,3.0,1,0.0,3.31,11,Bom,Médio,Sim,Sim,Cinza,5005.5
+COM-0522,Sala Comercial,Zona Norte,100.78,0.0,1,33.0,5.28,15,Precisa Reforma,Alto,Não,Sim,Vermelha,984.07
+COM-0523,Loja,Zona Leste,99.32,3.0,1,3.0,8.99,0,Bom,Muito Alto,Sim,Sim,Branca,5174.76
+COM-0524,Prédio Comercial,Zona Norte,1260.03,14.0,10,7.0,7.14,12,Precisa Reforma,Muito Alto,Sim,Sim,Branca,74152.86
+COM-0525,Escritório,Zona Oeste,74.57,2.0,1,22.0,1.5,14,Bom,Alto,Sim,Sim,Vermelha,3882.79
+COM-0526,Loja,Zona Sul,54.93,1.0,1,5.0,1.39,0,Precisa Reforma,Baixo,Não,Sim,Branca,1846.23
+COM-0527,Prédio Comercial,Centro,966.65,11.0,7,7.0,1.6,13,Regular,Médio,Não,Sim,Bege,70771.47
+COM-0528,Escritório,Área Industrial,84.07,1.0,1,9.0,14.97,2,Regular,Alto,Não,Sim,Verde,2500.15
+COM-0529,Escritório,Centro,61.3,0.0,1,13.0,1.97,8,Novo,Muito Alto,Sim,Sim,Azul,18633.24
+COM-0530,Escritório,Zona Sul,72.94,1.0,1,21.0,8.28,10,Bom,Médio,Sim,,Amarela,2545.89
+COM-0531,Loja,Zona Oeste,51.42,0.0,1,6.0,7.65,0,Novo,Alto,Sim,Sim,Cinza,3008.77
+COM-0532,Quiosque,Centro,25.72,0.0,1,,2.45,0,Regular,Médio,Sim,Sim,Verde,800.0
+COM-0533,Sala Comercial,Zona Oeste,52.95,0.0,1,8.0,10.96,7,Novo,Baixo,Sim,Sim,Bege,800.0
+COM-0534,Escritório,Zona Norte,86.04,2.0,2,6.0,11.61,11,Regular,Médio,Não,Sim,Bege,2956.09
+COM-0535,Galpão,Centro,474.07,7.0,4,1.0,3.16,0,Novo,Médio,Sim,Não,Cinza,40115.58
+COM-0536,Loja,Zona Oeste,182.74,1.0,2,5.0,9.44,0,,Médio,Não,Sim,Azul,7227.96
+COM-0537,Loja,Zona Norte,117.17,2.0,1,10.0,11.43,0,Regular,Médio,Sim,Sim,Bege,3757.8
+COM-0538,Loja,Zona Oeste,115.72,3.0,1,5.0,13.13,0,Precisa Reforma,Médio,Sim,Sim,Vermelha,4001.32
+COM-0539,Loja,Centro,113.52,1.0,1,55.0,4.07,0,Regular,Médio,Sim,Sim,Vermelha,4478.43
+COM-0540,Sala Comercial,Zona Norte,47.6,2.0,1,1.0,7.12,15,Novo,Muito Alto,Sim,Sim,Cinza,15358.2
+COM-0541,Prédio Comercial,Centro,1057.71,9.0,7,2.0,0.65,13,Bom,Alto,Sim,Sim,Bege,158373.56
+COM-0542,Sala Comercial,Zona Oeste,44.53,0.0,1,0.0,13.15,4,Bom,Alto,Não,Sim,Verde,916.02
+COM-0543,Sala Comercial,Zona Norte,44.36,0.0,1,31.0,9.93,5,Bom,Médio,Sim,Sim,Cinza,800.0
+COM-0544,Escritório,Centro,91.28,1.0,1,5.0,1.72,2,Bom,Médio,Não,Não,Bege,4671.11
+COM-0545,Galpão,Centro,,6.0,3,43.0,5.98,0,Bom,Médio,Sim,Não,Amarela,33736.6
+COM-0546,Sala Comercial,Área Industrial,62.5,0.0,1,28.0,18.54,4,Bom,Alto,Sim,Sim,Bege,800.0
+COM-0547,Galpão,Zona Oeste,626.22,6.0,5,3.0,11.41,0,Novo,Médio,Sim,Sim,Branca,45792.11
+COM-0548,Prédio Comercial,Zona Oeste,707.94,5.0,5,24.0,1.28,5,Regular,Alto,Não,Sim,Azul,49078.92
+COM-0549,Loja,Área Industrial,68.07,1.0,1,10.0,16.33,0,Regular,Muito Alto,Não,Sim,Cinza,2189.51
+COM-0550,Loja,Zona Oeste,155.72,1.0,1,3.0,6.54,0,Bom,Médio,Sim,Sim,Amarela,6126.55
+COM-0551,Escritório,Zona Norte,81.35,1.0,1,14.0,9.75,1,Bom,Médio,Sim,Sim,Branca,2339.47
+COM-0552,Escritório,Zona Sul,55.18,1.0,1,27.0,3.99,8,Regular,Alto,Sim,Sim,Verde,1894.24
+COM-0553,Prédio Comercial,Zona Norte,386.63,3.0,4,13.0,12.55,8,Regular,Alto,Sim,Não,Amarela,21649.77
+COM-0554,Sala Comercial,Zona Oeste,81.01,1.0,1,5.0,6.41,0,Bom,Alto,Sim,Sim,Azul,4232.43
+COM-0555,Sala Comercial,Zona Sul,74.64,3.0,1,7.0,9.14,5,Bom,Baixo,Sim,Sim,Branca,2599.37
+COM-0556,Prédio Comercial,Zona Sul,1518.33,14.0,11,,5.88,15,Bom,Baixo,Sim,Sim,Vermelha,117850.08
+COM-0557,Escritório,Centro,101.48,1.0,1,18.0,5.34,5,Novo,Médio,Sim,Sim,Amarela,7222.74
+COM-0558,Loja,Centro,83.79,1.0,1,1.0,4.2,0,Precisa Reforma,Médio,Sim,Não,Vermelha,3792.74
+COM-0559,Loja,Zona Leste,179.17,0.0,3,13.0,17.57,0,Regular,Muito Alto,Sim,Sim,Verde,13635.91
+COM-0560,Escritório,Centro,158.97,2.0,1,3.0,0.2,5,Regular,Alto,Sim,Sim,Azul,12912.21
+COM-0561,Escritório,Zona Norte,142.97,2.0,1,22.0,8.04,7,Bom,Médio,Sim,Sim,Branca,4959.51
+COM-0562,Loja,Zona Oeste,14.26,0.0,1,7.0,6.79,0,Bom,Médio,Sim,,Verde,800.0
+COM-0563,Escritório,Zona Leste,50.18,0.0,1,40.0,9.24,3,Regular,Médio,Sim,Sim,Amarela,800.0
+COM-0564,Galpão,Centro,1118.27,11.0,9,1.0,0.2,0,Precisa Reforma,Alto,Sim,Sim,Bege,89861.97
+COM-0565,Loja,Zona Sul,111.36,2.0,1,4.0,4.8,0,Bom,Alto,Não,Sim,Amarela,9894.73
+COM-0566,Escritório,Área Industrial,103.57,,1,13.0,17.1,13,Regular,Médio,Sim,Sim,Azul,2257.87
+COM-0567,Escritório,Centro,64.16,0.0,1,10.0,5.81,8,Bom,Médio,Sim,Sim,Bege,3607.26
+COM-0568,Loja,Zona Sul,57.72,0.0,1,1.0,7.69,0,Bom,Médio,Sim,Sim,Verde,2936.0
+COM-0569,Sala Comercial,Centro,50.26,,1,1.0,3.66,13,Regular,Médio,Sim,Sim,Vermelha,1881.65
+COM-0570,Sala Comercial,Centro,38.33,0.0,1,22.0,1.74,5,Bom,Médio,Sim,Sim,Cinza,1253.05
+COM-0571,Quiosque,Zona Sul,12.83,,1,11.0,9.63,0,Regular,Médio,Sim,Sim,Branca,800.0
+COM-0572,Escritório,Zona Sul,74.17,0.0,1,1.0,11.26,6,Regular,Baixo,Sim,Sim,Bege,1096.4
+COM-0573,Galpão,Zona Leste,956.47,11.0,6,6.0,9.77,0,Regular,Baixo,Não,Sim,Branca,38574.31
+COM-0574,Escritório,Zona Sul,134.96,0.0,1,12.0,7.65,8,Bom,Baixo,Sim,Sim,Branca,4144.49
+COM-0575,Escritório,Área Industrial,133.53,2.0,1,8.0,17.08,9,Bom,Alto,Não,Sim,Bege,6664.83
+COM-0576,Escritório,Zona Leste,145.38,,1,11.0,11.92,9,Bom,Médio,Sim,Sim,Amarela,4713.04
+COM-0577,Galpão,Zona Norte,637.06,5.0,6,1.0,17.96,0,Novo,Baixo,Sim,Sim,Azul,35235.5
+COM-0578,Loja,Zona Norte,233.92,3.0,1,20.0,10.99,0,Bom,Alto,Sim,Sim,Branca,11703.57
+COM-0579,Escritório,Centro,56.77,1.0,1,27.0,0.2,11,Novo,Médio,Sim,,Azul,3714.18
+COM-0580,Galpão,Centro,958.76,9.0,9,12.0,0.2,0,Precisa Reforma,Médio,Sim,Sim,Branca,55560.09
+COM-0581,Galpão,Zona Sul,770.67,10.0,7,0.0,6.27,0,Bom,Baixo,Sim,Sim,Amarela,44504.1
+COM-0582,Escritório,Zona Sul,89.56,1.0,1,4.0,4.11,15,Regular,Muito Alto,Não,,Bege,6880.79
+COM-0583,Sala Comercial,Zona Sul,48.74,2.0,1,3.0,6.59,3,Bom,Baixo,Sim,Sim,Bege,2151.89
+COM-0584,Quiosque,Zona Leste,12.13,0.0,1,0.0,13.24,0,Bom,Médio,Não,Sim,Branca,800.0
+COM-0585,Escritório,Zona Norte,111.04,0.0,1,1.0,5.94,10,Bom,Médio,Sim,Não,Verde,3476.75
+COM-0586,Sala Comercial,Centro,76.12,2.0,1,7.0,0.2,6,Bom,Médio,Sim,Sim,Vermelha,5365.97
+COM-0587,Sala Comercial,Zona Norte,63.81,0.0,1,11.0,7.41,11,Bom,Alto,Sim,Sim,Branca,1354.66
+COM-0588,Prédio Comercial,Zona Leste,1421.63,14.0,11,5.0,14.52,1,Bom,Alto,Não,Sim,Cinza,96319.89
+COM-0589,Galpão,Área Industrial,1169.61,14.0,9,5.0,19.08,0,Regular,Alto,Sim,Não,Amarela,68439.27
+COM-0590,Sala Comercial,Zona Norte,85.6,1.0,1,28.0,6.27,13,Bom,Baixo,Sim,Sim,Amarela,1028.21
+COM-0591,Sala Comercial,Área Industrial,53.37,0.0,2,1.0,11.84,3,Regular,Médio,Não,Sim,Vermelha,917.26
+COM-0592,Loja,Zona Leste,135.86,1.0,1,11.0,14.47,0,,Baixo,Sim,Sim,Azul,3296.56
+COM-0593,Galpão,Zona Norte,696.92,7.0,6,10.0,3.4,0,Bom,Alto,Sim,Sim,Azul,47974.97
+COM-0594,Sala Comercial,Zona Oeste,65.4,2.0,1,36.0,7.98,14,Bom,Médio,Sim,Sim,Amarela,1074.36
+COM-0595,Prédio Comercial,Zona Oeste,1597.04,16.0,12,10.0,9.56,13,Regular,Alto,Não,Sim,Bege,115876.67
+COM-0596,Quiosque,Centro,22.84,0.0,1,0.0,2.78,0,Regular,Baixo,Sim,Não,Bege,800.0
+COM-0597,Prédio Comercial,Zona Sul,278.4,4.0,2,20.0,11.15,8,Bom,Médio,Sim,Sim,Verde,27321.49
+COM-0598,Loja,Centro,148.68,1.0,2,38.0,8.32,0,Bom,Médio,Não,Sim,Vermelha,8348.57
+COM-0599,Sala Comercial,Zona Norte,67.62,0.0,1,0.0,11.88,8,Bom,Muito Alto,Sim,Sim,Cinza,2882.66
+COM-0600,Escritório,Área Industrial,114.4,0.0,1,13.0,15.67,5,,Médio,Não,Sim,Cinza,3378.57
+COM-0601,Prédio Comercial,Zona Sul,764.31,7.0,5,0.0,3.23,12,Regular,Muito Alto,Sim,Sim,Azul,88536.9
+COM-0602,Escritório,Zona Leste,8.0,0.0,1,,13.06,12,Precisa Reforma,Médio,Não,Sim,Azul,800.0
+COM-0603,Sala Comercial,Zona Norte,92.31,3.0,1,38.0,14.07,12,Regular,Alto,Sim,Sim,Bege,2052.78
+COM-0604,Quiosque,Zona Oeste,21.58,0.0,1,0.0,9.73,0,Bom,Médio,Sim,Sim,Azul,800.0
+COM-0605,Escritório,Zona Leste,96.83,0.0,1,54.0,9.15,2,,Alto,Sim,Sim,Branca,800.0
+COM-0606,Loja,Área Industrial,126.55,1.0,1,9.0,19.46,0,Bom,Baixo,Sim,Sim,Branca,3740.89
+COM-0607,Loja,Zona Leste,104.89,0.0,1,4.0,12.81,0,Novo,Muito Alto,Sim,Sim,Vermelha,6172.83
+COM-0608,Sala Comercial,Zona Leste,66.16,0.0,1,5.0,12.02,0,Novo,Alto,Sim,Sim,Cinza,1746.38
+COM-0609,Escritório,Zona Sul,112.37,0.0,1,7.0,12.81,14,Regular,Muito Alto,Sim,Não,Amarela,4675.59
+COM-0610,Loja,Zona Leste,54.39,1.0,1,21.0,11.49,0,Regular,Alto,Sim,Sim,Vermelha,800.0
+COM-0611,Galpão,Área Industrial,727.51,8.0,6,4.0,14.4,0,Bom,Médio,Sim,Sim,Verde,42792.83
+COM-0612,Sala Comercial,Zona Norte,90.18,2.0,1,19.0,8.61,4,Novo,Alto,Sim,Sim,Branca,4153.59
+COM-0613,Prédio Comercial,Zona Sul,1347.83,12.0,11,67.0,0.2,13,Regular,Médio,Não,Sim,Bege,100770.96
+COM-0614,Loja,Zona Norte,78.58,0.0,1,2.0,9.25,0,Bom,Médio,Sim,Sim,Vermelha,2231.85
+COM-0615,Prédio Comercial,Zona Oeste,830.72,11.0,5,10.0,6.85,7,Bom,Baixo,Sim,Sim,Amarela,45235.48
+COM-0616,Escritório,Zona Leste,104.22,4.0,1,10.0,15.04,8,Bom,Alto,Sim,Sim,Azul,4288.15
+COM-0617,Loja,Centro,117.55,1.0,1,3.0,5.85,0,Bom,Médio,Não,Sim,Cinza,8143.54
+COM-0618,Loja,Centro,208.93,3.0,2,11.0,0.2,0,Bom,Médio,Sim,Sim,Vermelha,16132.28
+COM-0619,Sala Comercial,Centro,43.31,0.0,1,4.0,9.03,6,Novo,Baixo,Sim,Sim,Bege,1179.96
+COM-0620,Galpão,Zona Norte,595.31,7.0,4,0.0,12.92,0,Regular,Baixo,Sim,Sim,Azul,23509.49
+COM-0621,Loja,Zona Oeste,114.34,0.0,1,9.0,7.73,0,Novo,Médio,Sim,Sim,Bege,5940.86
+COM-0622,Sala Comercial,Centro,8.0,0.0,1,0.0,2.19,12,Precisa Reforma,Alto,Não,Sim,Vermelha,800.0
+COM-0623,Quiosque,Centro,19.35,1.0,1,16.0,5.44,0,Regular,Baixo,Não,Sim,Verde,800.0
+COM-0624,Prédio Comercial,Zona Norte,1189.32,12.0,9,2.0,8.55,1,Bom,Alto,Não,Sim,Branca,81573.87
+COM-0625,Sala Comercial,Zona Leste,101.74,1.0,2,1.0,9.33,6,Novo,Muito Alto,Não,Sim,Verde,4752.9
+COM-0626,Sala Comercial,Centro,57.07,,1,20.0,4.71,7,Bom,Baixo,Sim,Sim,Bege,1417.93
+COM-0627,Prédio Comercial,Zona Leste,,17.0,15,32.0,16.44,7,Novo,Alto,Sim,Sim,Amarela,166612.78
+COM-0628,Sala Comercial,Área Industrial,46.99,0.0,1,2.0,22.15,11,Regular,Baixo,Sim,Sim,Bege,800.0
+COM-0629,Loja,Zona Sul,159.11,0.0,1,6.0,10.25,0,Bom,Médio,Sim,Sim,Verde,8996.65
+COM-0630,Escritório,Centro,101.56,2.0,1,17.0,0.2,8,Bom,Alto,Não,Sim,Verde,7493.31
+COM-0631,Galpão,Zona Sul,936.74,11.0,6,8.0,8.05,0,Bom,Médio,Sim,Sim,Verde,62204.87
+COM-0632,Sala Comercial,Zona Oeste,15.85,1.0,1,3.0,5.37,2,Precisa Reforma,Médio,Sim,Sim,Bege,800.0
+COM-0633,Sala Comercial,Zona Norte,68.12,0.0,1,16.0,13.23,12,Novo,Alto,Não,Não,Amarela,910.42
+COM-0634,Escritório,Zona Oeste,54.51,0.0,1,1.0,7.57,12,Bom,Alto,Sim,Sim,Bege,2013.47
+COM-0635,Galpão,Zona Leste,712.08,8.0,6,23.0,11.71,0,Bom,Alto,Sim,Sim,Branca,41273.14
+COM-0636,Loja,Área Industrial,141.16,1.0,1,13.0,16.02,0,Novo,Baixo,Sim,Sim,Branca,3729.58
+COM-0637,Galpão,Zona Oeste,688.52,10.0,5,19.0,7.82,0,Regular,Médio,Não,Sim,Cinza,33683.35
+COM-0638,Sala Comercial,Zona Leste,62.49,2.0,1,20.0,12.57,15,Novo,Muito Alto,Não,Sim,Verde,2231.47
+COM-0639,Escritório,Centro,131.03,2.0,1,24.0,3.96,13,Bom,Muito Alto,Não,,Branca,10737.4
+COM-0640,Escritório,Zona Norte,158.23,1.0,2,2.0,11.54,9,Novo,Baixo,Sim,Sim,Amarela,6274.61
+COM-0641,Loja,Zona Oeste,150.15,0.0,3,7.0,10.79,0,Bom,Médio,Sim,Sim,Vermelha,6960.09
+COM-0642,Quiosque,Zona Sul,20.27,0.0,1,21.0,10.65,0,Bom,Alto,Não,Sim,Vermelha,800.0
+COM-0643,Sala Comercial,Zona Leste,74.19,0.0,1,6.0,14.0,5,Regular,Baixo,Sim,Sim,Vermelha,800.0
+COM-0644,Loja,Área Industrial,129.36,0.0,1,3.0,15.58,0,Bom,Médio,Sim,Não,Cinza,4530.98
+COM-0645,Escritório,Zona Sul,76.64,2.0,1,5.0,7.12,10,Regular,Alto,Sim,Sim,Azul,3734.91
+COM-0646,Sala Comercial,Zona Sul,27.43,0.0,1,25.0,16.73,14,Regular,Médio,Sim,Sim,Vermelha,800.0
+COM-0647,Loja,Zona Norte,110.93,1.0,1,6.0,16.11,0,Novo,Baixo,Não,Sim,Azul,3291.0
+COM-0648,Loja,Zona Norte,100.9,3.0,1,12.0,7.4,0,Regular,Muito Alto,Não,Não,Amarela,2880.37
+COM-0649,Galpão,Área Industrial,855.92,8.0,5,10.0,16.44,0,Novo,Baixo,Sim,Sim,Cinza,48335.8
+COM-0650,Escritório,Zona Norte,95.74,0.0,1,0.0,9.89,12,Bom,Médio,Sim,Sim,Branca,2538.15
+COM-0651,Escritório,Zona Oeste,69.99,3.0,1,6.0,10.5,3,Novo,Alto,Sim,Sim,Vermelha,3646.58
+COM-0652,Escritório,Zona Norte,58.54,0.0,1,11.0,9.24,10,Regular,Muito Alto,Sim,Sim,Verde,1652.48
+COM-0653,Quiosque,Centro,25.52,0.0,1,,0.2,0,,Alto,Não,Não,Vermelha,800.0
+COM-0654,Escritório,Zona Norte,95.98,0.0,2,53.0,11.97,4,Bom,Baixo,Sim,Sim,Azul,800.0
+COM-0655,Loja,Zona Oeste,79.35,1.0,1,23.0,10.05,0,Bom,Médio,Sim,Sim,Azul,2438.15
+COM-0656,Sala Comercial,Zona Oeste,42.62,,1,20.0,13.01,15,Novo,Médio,Sim,Sim,Verde,800.0
+COM-0657,Sala Comercial,Zona Norte,37.8,0.0,1,6.0,12.41,4,Bom,Alto,Sim,Sim,Verde,800.0
+COM-0658,Prédio Comercial,Centro,794.52,8.0,7,4.0,1.05,7,Bom,Alto,Sim,Sim,Verde,97583.11
+COM-0659,Sala Comercial,Área Industrial,32.06,0.0,1,1.0,14.35,13,Novo,Alto,Sim,Sim,Cinza,800.0
+COM-0660,Galpão,Centro,726.71,8.0,5,9.0,3.26,0,Bom,Muito Alto,Sim,Não,Verde,70333.8
+COM-0661,Prédio Comercial,Zona Sul,990.02,10.0,8,17.0,6.02,11,,Médio,Sim,Sim,Branca,58160.6
+COM-0662,Loja,Centro,75.46,0.0,1,5.0,0.2,0,Precisa Reforma,Muito Alto,Não,Sim,Branca,5017.11
+COM-0663,Sala Comercial,Zona Oeste,35.36,1.0,1,19.0,4.09,10,Bom,Médio,Sim,Sim,Azul,800.0
+COM-0664,Galpão,Zona Oeste,962.13,,6,1.0,6.21,0,Bom,Alto,Não,Sim,Vermelha,51767.33
+COM-0665,Loja,Zona Leste,100.86,0.0,1,35.0,9.45,0,Regular,Baixo,Sim,Sim,Bege,800.0
+COM-0666,Prédio Comercial,Zona Norte,707.72,9.0,5,5.0,7.47,2,Bom,Muito Alto,Sim,Sim,Bege,75216.29
+COM-0667,Escritório,Zona Norte,136.37,2.0,1,4.0,9.42,12,Novo,Médio,Sim,Sim,Vermelha,5311.3
+COM-0668,Loja,Zona Norte,186.01,,1,20.0,8.1,0,Regular,Médio,Sim,Sim,Verde,6340.59
+COM-0669,Galpão,Zona Leste,502.56,4.0,5,11.0,8.88,0,Novo,Muito Alto,Sim,Sim,Vermelha,36571.26
+COM-0670,Loja,Zona Norte,190.25,1.0,2,7.0,9.43,0,Bom,Alto,Sim,Não,Amarela,9298.12
+COM-0671,Sala Comercial,Centro,83.51,0.0,1,11.0,1.05,0,Bom,Médio,Não,Não,Azul,3309.37
+COM-0672,Loja,Área Industrial,50.83,0.0,1,29.0,15.98,0,Regular,Baixo,Sim,Não,Amarela,800.0
+COM-0673,Escritório,Zona Leste,81.98,0.0,1,25.0,17.96,13,Bom,Médio,Não,Não,Cinza,800.0
+COM-0674,Sala Comercial,Centro,108.11,0.0,1,29.0,0.2,6,Regular,Médio,Não,Sim,Vermelha,3245.1
+COM-0675,Escritório,Área Industrial,69.12,2.0,1,0.0,16.73,4,Bom,Muito Alto,Não,Sim,Azul,3526.45
+COM-0676,Sala Comercial,Zona Sul,18.26,1.0,1,30.0,1.47,10,Precisa Reforma,Baixo,Não,Sim,Branca,800.0
+COM-0677,Escritório,Área Industrial,92.76,1.0,1,28.0,15.51,14,Bom,Médio,Não,Sim,Vermelha,2072.05
+COM-0678,Quiosque,Zona Norte,20.39,0.0,1,6.0,9.82,0,Regular,Baixo,Sim,Sim,Amarela,800.0
+COM-0679,Galpão,Zona Leste,984.43,11.0,8,6.0,14.14,0,Bom,Médio,Sim,Sim,Branca,51365.76
+COM-0680,Prédio Comercial,Zona Sul,700.84,7.0,7,16.0,10.98,11,Bom,Alto,Sim,Sim,Verde,63190.5
+COM-0681,Loja,Centro,149.3,0.0,1,4.0,2.16,0,Novo,Alto,Sim,Sim,Verde,14472.87
+COM-0682,Sala Comercial,Zona Leste,91.63,0.0,1,27.0,18.57,5,Bom,Médio,Não,Não,Bege,800.0
+COM-0683,Galpão,Zona Leste,566.86,4.0,4,0.0,11.99,0,Regular,Muito Alto,Sim,Sim,Amarela,38371.11
+COM-0684,Escritório,Zona Norte,53.44,0.0,1,1.0,13.01,1,Bom,Alto,Sim,Sim,Bege,1493.57
+COM-0685,Escritório,Área Industrial,126.06,2.0,1,5.0,17.16,1,Bom,Médio,Sim,Sim,Vermelha,4572.26
+COM-0686,Quiosque,Centro,19.18,1.0,1,10.0,0.2,0,Bom,Muito Alto,Não,Sim,Azul,950.47
+COM-0687,Sala Comercial,Zona Leste,45.93,1.0,1,2.0,14.28,4,Novo,Médio,Sim,,Branca,800.0
+COM-0688,Escritório,Centro,86.19,1.0,2,12.0,0.2,4,Regular,Muito Alto,Sim,Sim,Branca,6728.55
+COM-0689,Loja,Zona Leste,115.35,0.0,2,13.0,13.56,0,Regular,Médio,Sim,Sim,Vermelha,2579.5
+COM-0690,Prédio Comercial,Zona Leste,870.63,11.0,7,8.0,11.18,2,Novo,Alto,Sim,Sim,Cinza,82844.12
+COM-0691,Loja,Zona Leste,135.56,0.0,3,2.0,16.87,0,Regular,Muito Alto,Sim,Sim,Amarela,6831.2
+COM-0692,Sala Comercial,Zona Oeste,22.08,0.0,1,10.0,11.7,4,Precisa Reforma,Médio,Sim,Sim,Bege,800.0
+COM-0693,Escritório,Zona Sul,142.69,3.0,4,4.0,3.63,14,Bom,Alto,Sim,Sim,Azul,9400.97
+COM-0694,Quiosque,Centro,18.54,0.0,1,1.0,7.27,0,Regular,Baixo,Sim,Sim,Bege,800.0
+COM-0695,Loja,Área Industrial,2279.26,0.0,1,32.0,18.25,0,Precisa Reforma,Médio,Sim,Sim,Branca,8862.36
+COM-0696,Galpão,Centro,846.77,9.0,6,0.0,0.2,0,Regular,Médio,Sim,Sim,Azul,59967.73
+COM-0697,Loja,Centro,12.88,2.0,1,43.0,1.41,0,Regular,Muito Alto,Não,Sim,Bege,13917.66
+COM-0698,Galpão,Zona Norte,740.5,8.0,4,6.0,9.54,0,Novo,Muito Alto,Não,Sim,Cinza,194873.15
+COM-0699,Galpão,Zona Leste,655.43,5.0,4,0.0,13.6,0,Bom,Alto,Sim,Sim,Amarela,45706.59
+COM-0700,Sala Comercial,Centro,50.32,0.0,1,0.0,8.01,12,Regular,Médio,Não,Sim,Bege,1317.86

@@ -1,0 +1,54 @@
+Versão 1:
+Gere um dataset de imóveis comerciais com preço baseado em atributos.
+
+Retorne apenas CSV.
+
+--------------------------------------------------------------------------
+
+Versão 2:
+Gere um dataset com 700 imóveis comerciais contendo:
+
+- area_m2
+- bairro_valorizacao (baixo, medio, alto)
+- idade_imovel
+- distancia_centro_km
+- fluxo_pessoas_dia
+- preco
+
+Os dados devem seguir lógica realista. 
+
+Retorne apenas CSV.
+
+--------------------------------------------------------------------------
+
+Versão 3 (final):
+
+Gere um dataset sintético com 700 imóveis comerciais.
+
+Atributos:
+- area_m2 (numérico)
+- bairro_valorizacao (baixo, medio, alto)
+- idade_imovel (numérico)
+- vagas_estacionamento (numérico)
+- distancia_centro_km (numérico)
+- fluxo_pessoas_dia (numérico)
+- taxa_vacancia_regiao (numérico)
+- tipo_imovel (loja, sala_comercial, galpao, escritorio)
+- padrao_construtivo (baixo, medio, alto)
+- mes_cadastro (atributo irrelevante)
+- preco (numérico)
+
+Regras:
+- maior área → maior preço
+- melhor localização → maior preço
+- maior fluxo → maior preço
+- maior distância → menor preço
+- imóveis antigos → menor preço
+
+Inclua:
+- 5% valores faltantes (?)
+- 8% ruído
+- 3% outliers
+
+Retorne apenas CSV.
+
